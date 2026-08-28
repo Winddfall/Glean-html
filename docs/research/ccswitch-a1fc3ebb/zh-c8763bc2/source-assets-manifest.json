@@ -1,0 +1,3469 @@
+{
+  "assets": [
+    {
+      "contentType": "text/css",
+      "id": "eb7c580416f25403",
+      "kind": "stylesheet",
+      "name": "css2",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/eb7c580416f25403",
+      "url": "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Fira+Code:wght@400;500&display=swap"
+    },
+    {
+      "contentType": "",
+      "id": "ecd7124c1546e78f",
+      "kind": "stylesheet",
+      "name": "index-MqxEXHyO.css",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/ecd7124c1546e78f.css",
+      "url": "https://ccswitch.io/assets/index-MqxEXHyO.css"
+    },
+    {
+      "contentType": "image/png",
+      "id": "8318a46df5c95484",
+      "kind": "image",
+      "name": "cc-switch-logo-BPrI77SG.png",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/8318a46df5c95484.png",
+      "url": "https://ccswitch.io/assets/cc-switch-logo-BPrI77SG.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "de36d694158c102a",
+      "kind": "image",
+      "name": "hermes-NFJZedzD.png",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/de36d694158c102a.png",
+      "url": "https://ccswitch.io/assets/hermes-NFJZedzD.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "112d582746bb2c99",
+      "kind": "image",
+      "name": "favicon.png",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/112d582746bb2c99.png",
+      "url": "https://ccswitch.io/favicon.png"
+    },
+    {
+      "contentType": "image/vnd.microsoft.icon",
+      "id": "a42804e8433a5b45",
+      "kind": "image",
+      "name": "favicon.ico",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/a42804e8433a5b45.ico",
+      "url": "https://ccswitch.io/favicon.ico"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "faeefb0dc5f6b441",
+      "kind": "image",
+      "name": "svg-1",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/faeefb0dc5f6b441.svg",
+      "url": "inline-svg:faeefb0dc5f6b441"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "3aac56ee97d51ac0",
+      "kind": "image",
+      "name": "svg-2",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/3aac56ee97d51ac0.svg",
+      "url": "inline-svg:3aac56ee97d51ac0"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "e7137d07e0f5bb32",
+      "kind": "image",
+      "name": "svg-3",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/e7137d07e0f5bb32.svg",
+      "url": "inline-svg:e7137d07e0f5bb32"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "84950abe87f2f2a6",
+      "kind": "image",
+      "name": "svg-4",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/84950abe87f2f2a6.svg",
+      "url": "inline-svg:84950abe87f2f2a6"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b94982c7355a969e",
+      "kind": "image",
+      "name": "svg-5",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/b94982c7355a969e.svg",
+      "url": "inline-svg:b94982c7355a969e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "59d207a0e4ff3b60",
+      "kind": "image",
+      "name": "svg-6",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/59d207a0e4ff3b60.svg",
+      "url": "inline-svg:59d207a0e4ff3b60"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "58248a08c80c49b8",
+      "kind": "image",
+      "name": "svg-7",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/58248a08c80c49b8.svg",
+      "url": "inline-svg:58248a08c80c49b8"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "e5587fb3dff51bb1",
+      "kind": "image",
+      "name": "svg-8",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/e5587fb3dff51bb1.svg",
+      "url": "inline-svg:e5587fb3dff51bb1"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7a1052aeaff57975",
+      "kind": "image",
+      "name": "svg-9",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/7a1052aeaff57975.svg",
+      "url": "inline-svg:7a1052aeaff57975"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "fc26727af466131c",
+      "kind": "image",
+      "name": "svg-10",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/fc26727af466131c.svg",
+      "url": "inline-svg:fc26727af466131c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7186a9d64069169a",
+      "kind": "image",
+      "name": "svg-11",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/7186a9d64069169a.svg",
+      "url": "inline-svg:7186a9d64069169a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "825d78df3a4d4a8b",
+      "kind": "image",
+      "name": "svg-12",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/825d78df3a4d4a8b.svg",
+      "url": "inline-svg:825d78df3a4d4a8b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "fb9efb73f5ae1990",
+      "kind": "image",
+      "name": "OpenAI",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/fb9efb73f5ae1990.svg",
+      "url": "inline-svg:fb9efb73f5ae1990"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "c2766753a92da9d7",
+      "kind": "image",
+      "name": "svg-14",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/c2766753a92da9d7.svg",
+      "url": "inline-svg:c2766753a92da9d7"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ae66b8e8e5ee6152",
+      "kind": "image",
+      "name": "svg-15",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/ae66b8e8e5ee6152.svg",
+      "url": "inline-svg:ae66b8e8e5ee6152"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "4163499b14823f62",
+      "kind": "image",
+      "name": "svg-16",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/4163499b14823f62.svg",
+      "url": "inline-svg:4163499b14823f62"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "5ea53a60d9d1827a",
+      "kind": "image",
+      "name": "svg-17",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/5ea53a60d9d1827a.svg",
+      "url": "inline-svg:5ea53a60d9d1827a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7698728f093e9383",
+      "kind": "image",
+      "name": "svg-18",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/7698728f093e9383.svg",
+      "url": "inline-svg:7698728f093e9383"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ac10a6bd24d4112f",
+      "kind": "image",
+      "name": "svg-19",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/ac10a6bd24d4112f.svg",
+      "url": "inline-svg:ac10a6bd24d4112f"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "3c43da62479f7fb1",
+      "kind": "image",
+      "name": "PackyCode",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/3c43da62479f7fb1.svg",
+      "url": "inline-svg:3c43da62479f7fb1"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d1220e517fae46bf",
+      "kind": "image",
+      "name": "svg-21",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/d1220e517fae46bf.svg",
+      "url": "inline-svg:d1220e517fae46bf"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ff32e6bf31609296",
+      "kind": "image",
+      "name": "svg-22",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/ff32e6bf31609296.svg",
+      "url": "inline-svg:ff32e6bf31609296"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "2aad200c9cc5e0e6",
+      "kind": "image",
+      "name": "svg-23",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/2aad200c9cc5e0e6.svg",
+      "url": "inline-svg:2aad200c9cc5e0e6"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "85a1d4f183cc1e0a",
+      "kind": "image",
+      "name": "svg-24",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/85a1d4f183cc1e0a.svg",
+      "url": "inline-svg:85a1d4f183cc1e0a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "60a84739940d0fd5",
+      "kind": "image",
+      "name": "svg-25",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/60a84739940d0fd5.svg",
+      "url": "inline-svg:60a84739940d0fd5"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d88159eb0e785c4d",
+      "kind": "image",
+      "name": "svg-26",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/d88159eb0e785c4d.svg",
+      "url": "inline-svg:d88159eb0e785c4d"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "4ded3f33d7cc4fd8",
+      "kind": "image",
+      "name": "svg-27",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/4ded3f33d7cc4fd8.svg",
+      "url": "inline-svg:4ded3f33d7cc4fd8"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ee8ad304363c5e34",
+      "kind": "image",
+      "name": "svg-28",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/ee8ad304363c5e34.svg",
+      "url": "inline-svg:ee8ad304363c5e34"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "6cf27d0e940d06a6",
+      "kind": "image",
+      "name": "svg-29",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/6cf27d0e940d06a6.svg",
+      "url": "inline-svg:6cf27d0e940d06a6"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "75018a58bdbb3445",
+      "kind": "image",
+      "name": "svg-30",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/75018a58bdbb3445.svg",
+      "url": "inline-svg:75018a58bdbb3445"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7b8de711d8984706",
+      "kind": "image",
+      "name": "svg-31",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/7b8de711d8984706.svg",
+      "url": "inline-svg:7b8de711d8984706"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b6d196f66a3da20b",
+      "kind": "image",
+      "name": "svg-32",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/b6d196f66a3da20b.svg",
+      "url": "inline-svg:b6d196f66a3da20b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "0e742a18601df10a",
+      "kind": "image",
+      "name": "svg-33",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/0e742a18601df10a.svg",
+      "url": "inline-svg:0e742a18601df10a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a49e71a1666dbfa1",
+      "kind": "image",
+      "name": "svg-34",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/a49e71a1666dbfa1.svg",
+      "url": "inline-svg:a49e71a1666dbfa1"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d10f474e2149ba5c",
+      "kind": "image",
+      "name": "svg-35",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/d10f474e2149ba5c.svg",
+      "url": "inline-svg:d10f474e2149ba5c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "4a30fbfe4983cb30",
+      "kind": "image",
+      "name": "svg-36",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/4a30fbfe4983cb30.svg",
+      "url": "inline-svg:4a30fbfe4983cb30"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "17e2f344d20ff639",
+      "kind": "image",
+      "name": "svg-37",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/17e2f344d20ff639.svg",
+      "url": "inline-svg:17e2f344d20ff639"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "0abb40a4a237138d",
+      "kind": "image",
+      "name": "svg-38",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/0abb40a4a237138d.svg",
+      "url": "inline-svg:0abb40a4a237138d"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ce35a39234b6bc99",
+      "kind": "image",
+      "name": "svg-39",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/ce35a39234b6bc99.svg",
+      "url": "inline-svg:ce35a39234b6bc99"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "0cfb0914b9519b1a",
+      "kind": "image",
+      "name": "svg-40",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/0cfb0914b9519b1a.svg",
+      "url": "inline-svg:0cfb0914b9519b1a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ba2edad001853025",
+      "kind": "image",
+      "name": "Anthropic",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/ba2edad001853025.svg",
+      "url": "inline-svg:ba2edad001853025"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "674e9368b58394f2",
+      "kind": "image",
+      "name": "svg-42",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/674e9368b58394f2.svg",
+      "url": "inline-svg:674e9368b58394f2"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "58bc316872d9b430",
+      "kind": "image",
+      "name": "svg-43",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/58bc316872d9b430.svg",
+      "url": "inline-svg:58bc316872d9b430"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "3349cb137cbcb469",
+      "kind": "image",
+      "name": "svg-44",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/3349cb137cbcb469.svg",
+      "url": "inline-svg:3349cb137cbcb469"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "1f3dd0418a47f08b",
+      "kind": "image",
+      "name": "svg-45",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/1f3dd0418a47f08b.svg",
+      "url": "inline-svg:1f3dd0418a47f08b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "485a6dd5e4af6664",
+      "kind": "image",
+      "name": "svg-46",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/485a6dd5e4af6664.svg",
+      "url": "inline-svg:485a6dd5e4af6664"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "48e71ce8ee120faf",
+      "kind": "image",
+      "name": "svg-47",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/48e71ce8ee120faf.svg",
+      "url": "inline-svg:48e71ce8ee120faf"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7cc4e2702c43bc4f",
+      "kind": "image",
+      "name": "svg-48",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/7cc4e2702c43bc4f.svg",
+      "url": "inline-svg:7cc4e2702c43bc4f"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "73c727fe20c19e35",
+      "kind": "image",
+      "name": "svg-49",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/73c727fe20c19e35.svg",
+      "url": "inline-svg:73c727fe20c19e35"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7a05ed919e7d1cb5",
+      "kind": "image",
+      "name": "svg-50",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/7a05ed919e7d1cb5.svg",
+      "url": "inline-svg:7a05ed919e7d1cb5"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "651814704b7ec18b",
+      "kind": "image",
+      "name": "svg-51",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/651814704b7ec18b.svg",
+      "url": "inline-svg:651814704b7ec18b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "8672a954eebea873",
+      "kind": "image",
+      "name": "svg-52",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/8672a954eebea873.svg",
+      "url": "inline-svg:8672a954eebea873"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "e29182043e8be7a1",
+      "kind": "image",
+      "name": "OpenRouter",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/e29182043e8be7a1.svg",
+      "url": "inline-svg:e29182043e8be7a1"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "39e81099999a37f9",
+      "kind": "image",
+      "name": "svg-54",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/39e81099999a37f9.svg",
+      "url": "inline-svg:39e81099999a37f9"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "2e633e11b8b6830b",
+      "kind": "image",
+      "name": "svg-55",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/2e633e11b8b6830b.svg",
+      "url": "inline-svg:2e633e11b8b6830b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "36ce65875925c7aa",
+      "kind": "image",
+      "name": "svg-56",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/36ce65875925c7aa.svg",
+      "url": "inline-svg:36ce65875925c7aa"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "96be785143184cf5",
+      "kind": "image",
+      "name": "svg-57",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/96be785143184cf5.svg",
+      "url": "inline-svg:96be785143184cf5"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "664fcb9f7d657784",
+      "kind": "image",
+      "name": "svg-58",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/664fcb9f7d657784.svg",
+      "url": "inline-svg:664fcb9f7d657784"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "c2a1ef609b17f33c",
+      "kind": "image",
+      "name": "svg-59",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/c2a1ef609b17f33c.svg",
+      "url": "inline-svg:c2a1ef609b17f33c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ec2589fdd9e46d5b",
+      "kind": "image",
+      "name": "svg-60",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/ec2589fdd9e46d5b.svg",
+      "url": "inline-svg:ec2589fdd9e46d5b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "957eb17c5da77414",
+      "kind": "image",
+      "name": "svg-61",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/957eb17c5da77414.svg",
+      "url": "inline-svg:957eb17c5da77414"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "68ef597fe9094de2",
+      "kind": "image",
+      "name": "svg-62",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/68ef597fe9094de2.svg",
+      "url": "inline-svg:68ef597fe9094de2"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "845548170654ce75",
+      "kind": "image",
+      "name": "svg-63",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/845548170654ce75.svg",
+      "url": "inline-svg:845548170654ce75"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "c704f2f33678db79",
+      "kind": "image",
+      "name": "svg-64",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/c704f2f33678db79.svg",
+      "url": "inline-svg:c704f2f33678db79"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7d2a6ccb3d6db158",
+      "kind": "image",
+      "name": "svg-65",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/7d2a6ccb3d6db158.svg",
+      "url": "inline-svg:7d2a6ccb3d6db158"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "09111ca41f7b1175",
+      "kind": "image",
+      "name": "svg-66",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/09111ca41f7b1175.svg",
+      "url": "inline-svg:09111ca41f7b1175"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "e66a3fe4d1107729",
+      "kind": "image",
+      "name": "svg-67",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/e66a3fe4d1107729.svg",
+      "url": "inline-svg:e66a3fe4d1107729"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7371e6c7d9d39a88",
+      "kind": "image",
+      "name": "svg-68",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/7371e6c7d9d39a88.svg",
+      "url": "inline-svg:7371e6c7d9d39a88"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a03f3cf6df6e3b34",
+      "kind": "image",
+      "name": "svg-69",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/a03f3cf6df6e3b34.svg",
+      "url": "inline-svg:a03f3cf6df6e3b34"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "fff73473f403cfd6",
+      "kind": "image",
+      "name": "svg-70",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/fff73473f403cfd6.svg",
+      "url": "inline-svg:fff73473f403cfd6"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "df34eab4cb65aebb",
+      "kind": "image",
+      "name": "svg-71",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/df34eab4cb65aebb.svg",
+      "url": "inline-svg:df34eab4cb65aebb"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "8fb51262ac9c024c",
+      "kind": "image",
+      "name": "svg-72",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/8fb51262ac9c024c.svg",
+      "url": "inline-svg:8fb51262ac9c024c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d46f1215b49c6a70",
+      "kind": "image",
+      "name": "svg-73",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/d46f1215b49c6a70.svg",
+      "url": "inline-svg:d46f1215b49c6a70"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b883cca2f44aa56b",
+      "kind": "image",
+      "name": "svg-74",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/b883cca2f44aa56b.svg",
+      "url": "inline-svg:b883cca2f44aa56b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "0e53426f7e929424",
+      "kind": "image",
+      "name": "svg-75",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/0e53426f7e929424.svg",
+      "url": "inline-svg:0e53426f7e929424"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "438e2f4c7bbc05d9",
+      "kind": "image",
+      "name": "svg-76",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/438e2f4c7bbc05d9.svg",
+      "url": "inline-svg:438e2f4c7bbc05d9"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "c0d2b3dfcb7b435b",
+      "kind": "image",
+      "name": "svg-77",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/c0d2b3dfcb7b435b.svg",
+      "url": "inline-svg:c0d2b3dfcb7b435b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "41c7e467677079cb",
+      "kind": "image",
+      "name": "OpenAI",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/41c7e467677079cb.svg",
+      "url": "inline-svg:41c7e467677079cb"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "674266c9c08d7d9a",
+      "kind": "image",
+      "name": "svg-79",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/674266c9c08d7d9a.svg",
+      "url": "inline-svg:674266c9c08d7d9a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "04432b5568a4171c",
+      "kind": "image",
+      "name": "svg-80",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/04432b5568a4171c.svg",
+      "url": "inline-svg:04432b5568a4171c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "29b1a242c8d67395",
+      "kind": "image",
+      "name": "svg-81",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/29b1a242c8d67395.svg",
+      "url": "inline-svg:29b1a242c8d67395"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "221e875b790bce45",
+      "kind": "image",
+      "name": "svg-82",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/221e875b790bce45.svg",
+      "url": "inline-svg:221e875b790bce45"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b9f512c5422668b1",
+      "kind": "image",
+      "name": "svg-83",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/b9f512c5422668b1.svg",
+      "url": "inline-svg:b9f512c5422668b1"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "874b6e96443ef7b7",
+      "kind": "image",
+      "name": "svg-84",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/874b6e96443ef7b7.svg",
+      "url": "inline-svg:874b6e96443ef7b7"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "08e4222b35c1661d",
+      "kind": "image",
+      "name": "PackyCode",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/08e4222b35c1661d.svg",
+      "url": "inline-svg:08e4222b35c1661d"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ea7381ee084e3449",
+      "kind": "image",
+      "name": "svg-86",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/ea7381ee084e3449.svg",
+      "url": "inline-svg:ea7381ee084e3449"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "f09b87f3ae2369e7",
+      "kind": "image",
+      "name": "svg-87",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/f09b87f3ae2369e7.svg",
+      "url": "inline-svg:f09b87f3ae2369e7"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ffdbe156b35e94c6",
+      "kind": "image",
+      "name": "svg-88",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/ffdbe156b35e94c6.svg",
+      "url": "inline-svg:ffdbe156b35e94c6"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7eb00ebd8a1d8c9a",
+      "kind": "image",
+      "name": "svg-89",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/7eb00ebd8a1d8c9a.svg",
+      "url": "inline-svg:7eb00ebd8a1d8c9a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "cbea1854fb4bab46",
+      "kind": "image",
+      "name": "svg-90",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/cbea1854fb4bab46.svg",
+      "url": "inline-svg:cbea1854fb4bab46"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "635062a0adaf6031",
+      "kind": "image",
+      "name": "svg-91",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/635062a0adaf6031.svg",
+      "url": "inline-svg:635062a0adaf6031"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "41e86b57b711cb92",
+      "kind": "image",
+      "name": "svg-92",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/41e86b57b711cb92.svg",
+      "url": "inline-svg:41e86b57b711cb92"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7516b1e117bb602f",
+      "kind": "image",
+      "name": "svg-93",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/7516b1e117bb602f.svg",
+      "url": "inline-svg:7516b1e117bb602f"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "28955822624bfb8b",
+      "kind": "image",
+      "name": "svg-94",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/28955822624bfb8b.svg",
+      "url": "inline-svg:28955822624bfb8b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "390c7764dfc924ec",
+      "kind": "image",
+      "name": "svg-95",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/390c7764dfc924ec.svg",
+      "url": "inline-svg:390c7764dfc924ec"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "761d633dd117ad63",
+      "kind": "image",
+      "name": "svg-96",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/761d633dd117ad63.svg",
+      "url": "inline-svg:761d633dd117ad63"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ebca71ad651be097",
+      "kind": "image",
+      "name": "svg-97",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/ebca71ad651be097.svg",
+      "url": "inline-svg:ebca71ad651be097"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "fd115f62e85a506b",
+      "kind": "image",
+      "name": "svg-98",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/fd115f62e85a506b.svg",
+      "url": "inline-svg:fd115f62e85a506b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "f8630e85b5e47549",
+      "kind": "image",
+      "name": "svg-99",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/f8630e85b5e47549.svg",
+      "url": "inline-svg:f8630e85b5e47549"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "0a4ddb369857632e",
+      "kind": "image",
+      "name": "svg-100",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/0a4ddb369857632e.svg",
+      "url": "inline-svg:0a4ddb369857632e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "e18cf517cb573816",
+      "kind": "image",
+      "name": "svg-101",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/e18cf517cb573816.svg",
+      "url": "inline-svg:e18cf517cb573816"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "1a5f4f835ca9de69",
+      "kind": "image",
+      "name": "svg-102",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/1a5f4f835ca9de69.svg",
+      "url": "inline-svg:1a5f4f835ca9de69"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "0fdffc3916f1f93f",
+      "kind": "image",
+      "name": "svg-103",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/0fdffc3916f1f93f.svg",
+      "url": "inline-svg:0fdffc3916f1f93f"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "4a715be1d9825278",
+      "kind": "image",
+      "name": "svg-104",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/4a715be1d9825278.svg",
+      "url": "inline-svg:4a715be1d9825278"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "2edf100ed579ca33",
+      "kind": "image",
+      "name": "svg-105",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/2edf100ed579ca33.svg",
+      "url": "inline-svg:2edf100ed579ca33"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "e2254ed45fafd76a",
+      "kind": "image",
+      "name": "Anthropic",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/e2254ed45fafd76a.svg",
+      "url": "inline-svg:e2254ed45fafd76a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "4c31488be8c8887c",
+      "kind": "image",
+      "name": "svg-107",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/4c31488be8c8887c.svg",
+      "url": "inline-svg:4c31488be8c8887c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "faad088c06211db5",
+      "kind": "image",
+      "name": "svg-108",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/faad088c06211db5.svg",
+      "url": "inline-svg:faad088c06211db5"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d30e4cfa27e48fe9",
+      "kind": "image",
+      "name": "svg-109",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/d30e4cfa27e48fe9.svg",
+      "url": "inline-svg:d30e4cfa27e48fe9"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "c027b7ae46b8f93c",
+      "kind": "image",
+      "name": "svg-110",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/c027b7ae46b8f93c.svg",
+      "url": "inline-svg:c027b7ae46b8f93c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "6c0e24a92944fa8c",
+      "kind": "image",
+      "name": "svg-111",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/6c0e24a92944fa8c.svg",
+      "url": "inline-svg:6c0e24a92944fa8c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "8ccd2a4ec1765166",
+      "kind": "image",
+      "name": "svg-112",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/8ccd2a4ec1765166.svg",
+      "url": "inline-svg:8ccd2a4ec1765166"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "e8e343cbb31a6a18",
+      "kind": "image",
+      "name": "svg-113",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/e8e343cbb31a6a18.svg",
+      "url": "inline-svg:e8e343cbb31a6a18"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "5347145c2d2e021b",
+      "kind": "image",
+      "name": "svg-114",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/5347145c2d2e021b.svg",
+      "url": "inline-svg:5347145c2d2e021b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "6c06593deb339c0c",
+      "kind": "image",
+      "name": "svg-115",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/6c06593deb339c0c.svg",
+      "url": "inline-svg:6c06593deb339c0c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7b305afc23d34b53",
+      "kind": "image",
+      "name": "svg-116",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/7b305afc23d34b53.svg",
+      "url": "inline-svg:7b305afc23d34b53"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "5c3196701a6c36b5",
+      "kind": "image",
+      "name": "svg-117",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/5c3196701a6c36b5.svg",
+      "url": "inline-svg:5c3196701a6c36b5"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b3b4c711e8c818e2",
+      "kind": "image",
+      "name": "OpenRouter",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/b3b4c711e8c818e2.svg",
+      "url": "inline-svg:b3b4c711e8c818e2"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "77efa0fefee6aff8",
+      "kind": "image",
+      "name": "svg-119",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/77efa0fefee6aff8.svg",
+      "url": "inline-svg:77efa0fefee6aff8"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a96521ea886ccc24",
+      "kind": "image",
+      "name": "svg-120",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/a96521ea886ccc24.svg",
+      "url": "inline-svg:a96521ea886ccc24"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "530133f1a782b296",
+      "kind": "image",
+      "name": "svg-121",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/530133f1a782b296.svg",
+      "url": "inline-svg:530133f1a782b296"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "c4a2535597b28e97",
+      "kind": "image",
+      "name": "svg-122",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/c4a2535597b28e97.svg",
+      "url": "inline-svg:c4a2535597b28e97"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "c142614648bc1b28",
+      "kind": "image",
+      "name": "svg-123",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/c142614648bc1b28.svg",
+      "url": "inline-svg:c142614648bc1b28"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "f853ad1f3ca29038",
+      "kind": "image",
+      "name": "svg-124",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/f853ad1f3ca29038.svg",
+      "url": "inline-svg:f853ad1f3ca29038"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "feaaf2f710b59159",
+      "kind": "image",
+      "name": "svg-125",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/feaaf2f710b59159.svg",
+      "url": "inline-svg:feaaf2f710b59159"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "99841c8537662757",
+      "kind": "image",
+      "name": "svg-126",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/99841c8537662757.svg",
+      "url": "inline-svg:99841c8537662757"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "5519410d8e7db2ba",
+      "kind": "image",
+      "name": "svg-127",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/5519410d8e7db2ba.svg",
+      "url": "inline-svg:5519410d8e7db2ba"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "4a5c81f279d5aed1",
+      "kind": "image",
+      "name": "svg-128",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/4a5c81f279d5aed1.svg",
+      "url": "inline-svg:4a5c81f279d5aed1"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "23d8aa13923daf11",
+      "kind": "image",
+      "name": "svg-129",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/23d8aa13923daf11.svg",
+      "url": "inline-svg:23d8aa13923daf11"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "4918903a486c510e",
+      "kind": "image",
+      "name": "svg-130",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/4918903a486c510e.svg",
+      "url": "inline-svg:4918903a486c510e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "08e476bb92a83397",
+      "kind": "image",
+      "name": "svg-131",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/08e476bb92a83397.svg",
+      "url": "inline-svg:08e476bb92a83397"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "0459a4587d7abfa6",
+      "kind": "image",
+      "name": "svg-132",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/0459a4587d7abfa6.svg",
+      "url": "inline-svg:0459a4587d7abfa6"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "0ec064d447fcfaf1",
+      "kind": "image",
+      "name": "svg-133",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/0ec064d447fcfaf1.svg",
+      "url": "inline-svg:0ec064d447fcfaf1"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "800ef9877650fbbb",
+      "kind": "image",
+      "name": "svg-134",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/800ef9877650fbbb.svg",
+      "url": "inline-svg:800ef9877650fbbb"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ee3d7c4b2562e560",
+      "kind": "image",
+      "name": "svg-135",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/ee3d7c4b2562e560.svg",
+      "url": "inline-svg:ee3d7c4b2562e560"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "914d0a830638eb8d",
+      "kind": "image",
+      "name": "svg-136",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/914d0a830638eb8d.svg",
+      "url": "inline-svg:914d0a830638eb8d"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "009e731fd4f7b842",
+      "kind": "image",
+      "name": "svg-137",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/009e731fd4f7b842.svg",
+      "url": "inline-svg:009e731fd4f7b842"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "1a515c2466848f9b",
+      "kind": "image",
+      "name": "svg-138",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/1a515c2466848f9b.svg",
+      "url": "inline-svg:1a515c2466848f9b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "0056845dc1a23e38",
+      "kind": "image",
+      "name": "svg-139",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/0056845dc1a23e38.svg",
+      "url": "inline-svg:0056845dc1a23e38"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "5d048ab2f5500230",
+      "kind": "image",
+      "name": "svg-140",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/5d048ab2f5500230.svg",
+      "url": "inline-svg:5d048ab2f5500230"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "2864f0407a492094",
+      "kind": "image",
+      "name": "svg-141",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/2864f0407a492094.svg",
+      "url": "inline-svg:2864f0407a492094"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "eeaa463e2fec01e2",
+      "kind": "image",
+      "name": "svg-142",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/eeaa463e2fec01e2.svg",
+      "url": "inline-svg:eeaa463e2fec01e2"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a1c894c8d45ca45c",
+      "kind": "image",
+      "name": "svg-143",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/a1c894c8d45ca45c.svg",
+      "url": "inline-svg:a1c894c8d45ca45c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "51835b11e6eb5119",
+      "kind": "image",
+      "name": "svg-144",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/51835b11e6eb5119.svg",
+      "url": "inline-svg:51835b11e6eb5119"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "79647bf406f5fef2",
+      "kind": "image",
+      "name": "svg-145",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/79647bf406f5fef2.svg",
+      "url": "inline-svg:79647bf406f5fef2"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "803b5585d6a72a72",
+      "kind": "image",
+      "name": "svg-146",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/803b5585d6a72a72.svg",
+      "url": "inline-svg:803b5585d6a72a72"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "3ae62670085e6215",
+      "kind": "image",
+      "name": "svg-147",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/3ae62670085e6215.svg",
+      "url": "inline-svg:3ae62670085e6215"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "1ff1464a82d09fd2",
+      "kind": "image",
+      "name": "svg-148",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/1ff1464a82d09fd2.svg",
+      "url": "inline-svg:1ff1464a82d09fd2"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "1f1ff3beeaec2499",
+      "kind": "image",
+      "name": "svg-149",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/1f1ff3beeaec2499.svg",
+      "url": "inline-svg:1f1ff3beeaec2499"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "f3696355efddf243",
+      "kind": "image",
+      "name": "svg-150",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/f3696355efddf243.svg",
+      "url": "inline-svg:f3696355efddf243"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "9749abc40ea0b298",
+      "kind": "image",
+      "name": "svg-151",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/9749abc40ea0b298.svg",
+      "url": "inline-svg:9749abc40ea0b298"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "8db453711985b585",
+      "kind": "image",
+      "name": "svg-152",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/8db453711985b585.svg",
+      "url": "inline-svg:8db453711985b585"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ed4c697c311c9ea3",
+      "kind": "image",
+      "name": "svg-153",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/ed4c697c311c9ea3.svg",
+      "url": "inline-svg:ed4c697c311c9ea3"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "e9908efa6dd02d7c",
+      "kind": "image",
+      "name": "svg-154",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/e9908efa6dd02d7c.svg",
+      "url": "inline-svg:e9908efa6dd02d7c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "fc8699ad7829829a",
+      "kind": "image",
+      "name": "svg-155",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/fc8699ad7829829a.svg",
+      "url": "inline-svg:fc8699ad7829829a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "3de01bd926919f96",
+      "kind": "image",
+      "name": "svg-156",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/3de01bd926919f96.svg",
+      "url": "inline-svg:3de01bd926919f96"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "cae3fe5c8525a83a",
+      "kind": "image",
+      "name": "svg-157",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/cae3fe5c8525a83a.svg",
+      "url": "inline-svg:cae3fe5c8525a83a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "5d862354f08e86fe",
+      "kind": "image",
+      "name": "svg-158",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/5d862354f08e86fe.svg",
+      "url": "inline-svg:5d862354f08e86fe"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "2f02ccadf115c43e",
+      "kind": "image",
+      "name": "svg-159",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/2f02ccadf115c43e.svg",
+      "url": "inline-svg:2f02ccadf115c43e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "c4c0c99ba76c59dc",
+      "kind": "image",
+      "name": "svg-160",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/c4c0c99ba76c59dc.svg",
+      "url": "inline-svg:c4c0c99ba76c59dc"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7e01588530cdf072",
+      "kind": "image",
+      "name": "svg-161",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/7e01588530cdf072.svg",
+      "url": "inline-svg:7e01588530cdf072"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "9a8ca46e7030b019",
+      "kind": "image",
+      "name": "svg-162",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/9a8ca46e7030b019.svg",
+      "url": "inline-svg:9a8ca46e7030b019"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "de7c9404897de571",
+      "kind": "image",
+      "name": "svg-163",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/de7c9404897de571.svg",
+      "url": "inline-svg:de7c9404897de571"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "8aad695943c394c2",
+      "kind": "image",
+      "name": "svg-164",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/8aad695943c394c2.svg",
+      "url": "inline-svg:8aad695943c394c2"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "8c8180974e661e6e",
+      "kind": "image",
+      "name": "svg-165",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/8c8180974e661e6e.svg",
+      "url": "inline-svg:8c8180974e661e6e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "f7c89094aa5ca635",
+      "kind": "image",
+      "name": "svg-166",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/f7c89094aa5ca635.svg",
+      "url": "inline-svg:f7c89094aa5ca635"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "135a9bcf5bae789a",
+      "kind": "image",
+      "name": "svg-167",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/135a9bcf5bae789a.svg",
+      "url": "inline-svg:135a9bcf5bae789a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "823d426f73f72409",
+      "kind": "image",
+      "name": "svg-168",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/823d426f73f72409.svg",
+      "url": "inline-svg:823d426f73f72409"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7e9bfefb17a49a93",
+      "kind": "image",
+      "name": "svg-169",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/7e9bfefb17a49a93.svg",
+      "url": "inline-svg:7e9bfefb17a49a93"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "8106c0f63372f4d0",
+      "kind": "image",
+      "name": "svg-170",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/8106c0f63372f4d0.svg",
+      "url": "inline-svg:8106c0f63372f4d0"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "026a1c1822633a49",
+      "kind": "image",
+      "name": "svg-171",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/026a1c1822633a49.svg",
+      "url": "inline-svg:026a1c1822633a49"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d0557a5f46f35480",
+      "kind": "image",
+      "name": "svg-172",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/d0557a5f46f35480.svg",
+      "url": "inline-svg:d0557a5f46f35480"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "f1fa0735e253c500",
+      "kind": "image",
+      "name": "svg-173",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/f1fa0735e253c500.svg",
+      "url": "inline-svg:f1fa0735e253c500"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "bffc16494c11e3b4",
+      "kind": "image",
+      "name": "svg-174",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/bffc16494c11e3b4.svg",
+      "url": "inline-svg:bffc16494c11e3b4"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "e0e6b724a072377b",
+      "kind": "image",
+      "name": "svg-175",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/e0e6b724a072377b.svg",
+      "url": "inline-svg:e0e6b724a072377b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "811209c98dcfb5bd",
+      "kind": "image",
+      "name": "svg-176",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/811209c98dcfb5bd.svg",
+      "url": "inline-svg:811209c98dcfb5bd"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "4597f753459727b9",
+      "kind": "image",
+      "name": "svg-177",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/4597f753459727b9.svg",
+      "url": "inline-svg:4597f753459727b9"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "139d5626078916fe",
+      "kind": "image",
+      "name": "svg-178",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/139d5626078916fe.svg",
+      "url": "inline-svg:139d5626078916fe"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "34057170f77ad1ae",
+      "kind": "image",
+      "name": "svg-179",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/34057170f77ad1ae.svg",
+      "url": "inline-svg:34057170f77ad1ae"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "c8ad3fb2694104fd",
+      "kind": "image",
+      "name": "svg-180",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/c8ad3fb2694104fd.svg",
+      "url": "inline-svg:c8ad3fb2694104fd"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7916bf8bf56aedec",
+      "kind": "image",
+      "name": "svg-181",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/7916bf8bf56aedec.svg",
+      "url": "inline-svg:7916bf8bf56aedec"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "bc0d86fbf218cb61",
+      "kind": "image",
+      "name": "svg-182",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/bc0d86fbf218cb61.svg",
+      "url": "inline-svg:bc0d86fbf218cb61"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "968ab881e302fa22",
+      "kind": "image",
+      "name": "svg-183",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/968ab881e302fa22.svg",
+      "url": "inline-svg:968ab881e302fa22"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "4026b4c39badee3b",
+      "kind": "image",
+      "name": "svg-184",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/4026b4c39badee3b.svg",
+      "url": "inline-svg:4026b4c39badee3b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d81bb263eb7f3257",
+      "kind": "image",
+      "name": "svg-185",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/d81bb263eb7f3257.svg",
+      "url": "inline-svg:d81bb263eb7f3257"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "5672cbd1832175f8",
+      "kind": "image",
+      "name": "svg-186",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/5672cbd1832175f8.svg",
+      "url": "inline-svg:5672cbd1832175f8"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a80fadc33e2d53f2",
+      "kind": "image",
+      "name": "svg-187",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/a80fadc33e2d53f2.svg",
+      "url": "inline-svg:a80fadc33e2d53f2"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ac90ee44991205df",
+      "kind": "image",
+      "name": "svg-188",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/ac90ee44991205df.svg",
+      "url": "inline-svg:ac90ee44991205df"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "2b812ed19668853b",
+      "kind": "image",
+      "name": "svg-189",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/2b812ed19668853b.svg",
+      "url": "inline-svg:2b812ed19668853b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "882362a5d73c16a2",
+      "kind": "image",
+      "name": "svg-190",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/882362a5d73c16a2.svg",
+      "url": "inline-svg:882362a5d73c16a2"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ba3bb0f4cf6de341",
+      "kind": "image",
+      "name": "svg-191",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/ba3bb0f4cf6de341.svg",
+      "url": "inline-svg:ba3bb0f4cf6de341"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "49184f376c85b6ee",
+      "kind": "image",
+      "name": "svg-192",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/49184f376c85b6ee.svg",
+      "url": "inline-svg:49184f376c85b6ee"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "5e68a94de8c3e50d",
+      "kind": "image",
+      "name": "svg-193",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/5e68a94de8c3e50d.svg",
+      "url": "inline-svg:5e68a94de8c3e50d"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "8f624031996e0bbe",
+      "kind": "image",
+      "name": "svg-194",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/8f624031996e0bbe.svg",
+      "url": "inline-svg:8f624031996e0bbe"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "139201d05af37d4c",
+      "kind": "image",
+      "name": "svg-195",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/139201d05af37d4c.svg",
+      "url": "inline-svg:139201d05af37d4c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "021bf3b46bd711ca",
+      "kind": "image",
+      "name": "svg-196",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/021bf3b46bd711ca.svg",
+      "url": "inline-svg:021bf3b46bd711ca"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "bfeb6c3338336640",
+      "kind": "image",
+      "name": "svg-197",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/bfeb6c3338336640.svg",
+      "url": "inline-svg:bfeb6c3338336640"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b106357ccc6438c2",
+      "kind": "image",
+      "name": "svg-198",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/b106357ccc6438c2.svg",
+      "url": "inline-svg:b106357ccc6438c2"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a745031cbcc94248",
+      "kind": "image",
+      "name": "svg-199",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/a745031cbcc94248.svg",
+      "url": "inline-svg:a745031cbcc94248"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "3fbe67bc45a34e8e",
+      "kind": "image",
+      "name": "svg-200",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/3fbe67bc45a34e8e.svg",
+      "url": "inline-svg:3fbe67bc45a34e8e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "8d10847feca94547",
+      "kind": "image",
+      "name": "svg-201",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/8d10847feca94547.svg",
+      "url": "inline-svg:8d10847feca94547"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "134e9bb565deb49c",
+      "kind": "image",
+      "name": "svg-202",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/134e9bb565deb49c.svg",
+      "url": "inline-svg:134e9bb565deb49c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d14c0890314f047c",
+      "kind": "image",
+      "name": "svg-203",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/d14c0890314f047c.svg",
+      "url": "inline-svg:d14c0890314f047c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "f8d6c3ab687f8bfb",
+      "kind": "image",
+      "name": "svg-204",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/f8d6c3ab687f8bfb.svg",
+      "url": "inline-svg:f8d6c3ab687f8bfb"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "cbea77924505f64d",
+      "kind": "image",
+      "name": "svg-205",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/cbea77924505f64d.svg",
+      "url": "inline-svg:cbea77924505f64d"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "36a45f36a71bebe7",
+      "kind": "image",
+      "name": "svg-206",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/36a45f36a71bebe7.svg",
+      "url": "inline-svg:36a45f36a71bebe7"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "1a5af231b5091dfd",
+      "kind": "image",
+      "name": "svg-207",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/1a5af231b5091dfd.svg",
+      "url": "inline-svg:1a5af231b5091dfd"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "34159039fefd5ab7",
+      "kind": "image",
+      "name": "svg-208",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/34159039fefd5ab7.svg",
+      "url": "inline-svg:34159039fefd5ab7"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "4939f6a6ebfd0f9f",
+      "kind": "image",
+      "name": "svg-209",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/4939f6a6ebfd0f9f.svg",
+      "url": "inline-svg:4939f6a6ebfd0f9f"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "e7f7e0965cebfce5",
+      "kind": "image",
+      "name": "svg-210",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/e7f7e0965cebfce5.svg",
+      "url": "inline-svg:e7f7e0965cebfce5"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b11176ee08c1cab8",
+      "kind": "image",
+      "name": "svg-211",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/b11176ee08c1cab8.svg",
+      "url": "inline-svg:b11176ee08c1cab8"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "0f90cdcc8aa0f897",
+      "kind": "image",
+      "name": "svg-212",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/0f90cdcc8aa0f897.svg",
+      "url": "inline-svg:0f90cdcc8aa0f897"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d356b62c88bd8674",
+      "kind": "image",
+      "name": "svg-213",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/d356b62c88bd8674.svg",
+      "url": "inline-svg:d356b62c88bd8674"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "4bc25b926e190172",
+      "kind": "image",
+      "name": "svg-214",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/4bc25b926e190172.svg",
+      "url": "inline-svg:4bc25b926e190172"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "65a031a1bb6338bc",
+      "kind": "image",
+      "name": "svg-215",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/65a031a1bb6338bc.svg",
+      "url": "inline-svg:65a031a1bb6338bc"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ff6fa18d76eca9a8",
+      "kind": "image",
+      "name": "svg-216",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/ff6fa18d76eca9a8.svg",
+      "url": "inline-svg:ff6fa18d76eca9a8"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b774cb90c1ff7174",
+      "kind": "image",
+      "name": "svg-217",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/b774cb90c1ff7174.svg",
+      "url": "inline-svg:b774cb90c1ff7174"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "0b751521c87b4862",
+      "kind": "image",
+      "name": "svg-218",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/0b751521c87b4862.svg",
+      "url": "inline-svg:0b751521c87b4862"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "fbfb094fd6a5ab8d",
+      "kind": "image",
+      "name": "svg-219",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/fbfb094fd6a5ab8d.svg",
+      "url": "inline-svg:fbfb094fd6a5ab8d"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a457901d9bde907f",
+      "kind": "image",
+      "name": "svg-220",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/a457901d9bde907f.svg",
+      "url": "inline-svg:a457901d9bde907f"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d8d051f8772e8719",
+      "kind": "image",
+      "name": "svg-221",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/d8d051f8772e8719.svg",
+      "url": "inline-svg:d8d051f8772e8719"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "662e5c15a6520d40",
+      "kind": "image",
+      "name": "svg-222",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/662e5c15a6520d40.svg",
+      "url": "inline-svg:662e5c15a6520d40"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "0935790bbac4f377",
+      "kind": "image",
+      "name": "svg-223",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/0935790bbac4f377.svg",
+      "url": "inline-svg:0935790bbac4f377"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "4367baf91f9522d1",
+      "kind": "image",
+      "name": "svg-224",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/4367baf91f9522d1.svg",
+      "url": "inline-svg:4367baf91f9522d1"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "4f7b7dba08a48b76",
+      "kind": "image",
+      "name": "svg-225",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/4f7b7dba08a48b76.svg",
+      "url": "inline-svg:4f7b7dba08a48b76"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "22cd8d30ea1d3d00",
+      "kind": "image",
+      "name": "svg-226",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/22cd8d30ea1d3d00.svg",
+      "url": "inline-svg:22cd8d30ea1d3d00"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "bcd53b7b8b79c87d",
+      "kind": "image",
+      "name": "svg-227",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/bcd53b7b8b79c87d.svg",
+      "url": "inline-svg:bcd53b7b8b79c87d"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "e58872d29312a877",
+      "kind": "image",
+      "name": "svg-228",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/e58872d29312a877.svg",
+      "url": "inline-svg:e58872d29312a877"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "bdbe82fbb0f97d42",
+      "kind": "image",
+      "name": "svg-229",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/bdbe82fbb0f97d42.svg",
+      "url": "inline-svg:bdbe82fbb0f97d42"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ee2cd5e5dd1bacbb",
+      "kind": "image",
+      "name": "svg-230",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/ee2cd5e5dd1bacbb.svg",
+      "url": "inline-svg:ee2cd5e5dd1bacbb"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "4c111f2dbced1a3d",
+      "kind": "image",
+      "name": "svg-231",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/4c111f2dbced1a3d.svg",
+      "url": "inline-svg:4c111f2dbced1a3d"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "4d5a6a2b83da3052",
+      "kind": "image",
+      "name": "svg-232",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/4d5a6a2b83da3052.svg",
+      "url": "inline-svg:4d5a6a2b83da3052"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b87d00a366063d19",
+      "kind": "image",
+      "name": "svg-233",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/b87d00a366063d19.svg",
+      "url": "inline-svg:b87d00a366063d19"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "2677d6ab60eca811",
+      "kind": "image",
+      "name": "svg-234",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/2677d6ab60eca811.svg",
+      "url": "inline-svg:2677d6ab60eca811"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "5252d2924eb9572d",
+      "kind": "image",
+      "name": "svg-235",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/5252d2924eb9572d.svg",
+      "url": "inline-svg:5252d2924eb9572d"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "46ccd9de0eb4abd9",
+      "kind": "image",
+      "name": "svg-236",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/46ccd9de0eb4abd9.svg",
+      "url": "inline-svg:46ccd9de0eb4abd9"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "f41bdace4a99b73e",
+      "kind": "image",
+      "name": "svg-237",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/f41bdace4a99b73e.svg",
+      "url": "inline-svg:f41bdace4a99b73e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "bd0cb7ffdad852ac",
+      "kind": "image",
+      "name": "svg-238",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/bd0cb7ffdad852ac.svg",
+      "url": "inline-svg:bd0cb7ffdad852ac"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a9c73b1619cb4ff3",
+      "kind": "image",
+      "name": "svg-239",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/a9c73b1619cb4ff3.svg",
+      "url": "inline-svg:a9c73b1619cb4ff3"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "8dc0b3e0ae96174f",
+      "kind": "image",
+      "name": "svg-240",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/8dc0b3e0ae96174f.svg",
+      "url": "inline-svg:8dc0b3e0ae96174f"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a6d17d75b958d76a",
+      "kind": "image",
+      "name": "svg-241",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/a6d17d75b958d76a.svg",
+      "url": "inline-svg:a6d17d75b958d76a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "f5b2840b3fcf3618",
+      "kind": "image",
+      "name": "svg-242",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/f5b2840b3fcf3618.svg",
+      "url": "inline-svg:f5b2840b3fcf3618"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "070a3e2cecedbd9b",
+      "kind": "image",
+      "name": "svg-243",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/070a3e2cecedbd9b.svg",
+      "url": "inline-svg:070a3e2cecedbd9b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b06ac570bc4d261f",
+      "kind": "image",
+      "name": "svg-244",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/b06ac570bc4d261f.svg",
+      "url": "inline-svg:b06ac570bc4d261f"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "875de57b76dae79d",
+      "kind": "image",
+      "name": "svg-245",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/875de57b76dae79d.svg",
+      "url": "inline-svg:875de57b76dae79d"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "fabea0ecbe21340e",
+      "kind": "image",
+      "name": "svg-246",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/fabea0ecbe21340e.svg",
+      "url": "inline-svg:fabea0ecbe21340e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "eefb350b16617fbf",
+      "kind": "image",
+      "name": "svg-247",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/eefb350b16617fbf.svg",
+      "url": "inline-svg:eefb350b16617fbf"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a738ec7e1033a34c",
+      "kind": "image",
+      "name": "svg-248",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/a738ec7e1033a34c.svg",
+      "url": "inline-svg:a738ec7e1033a34c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ac32d9cad3240aa8",
+      "kind": "image",
+      "name": "svg-249",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/ac32d9cad3240aa8.svg",
+      "url": "inline-svg:ac32d9cad3240aa8"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "430c7d8c15446f1e",
+      "kind": "image",
+      "name": "svg-250",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/430c7d8c15446f1e.svg",
+      "url": "inline-svg:430c7d8c15446f1e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "dffdd8748b5dab80",
+      "kind": "image",
+      "name": "svg-251",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/dffdd8748b5dab80.svg",
+      "url": "inline-svg:dffdd8748b5dab80"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "16d6727cc05cfbe6",
+      "kind": "image",
+      "name": "svg-252",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/16d6727cc05cfbe6.svg",
+      "url": "inline-svg:16d6727cc05cfbe6"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "bfc8b85a4c564e33",
+      "kind": "image",
+      "name": "svg-253",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/bfc8b85a4c564e33.svg",
+      "url": "inline-svg:bfc8b85a4c564e33"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "cab828cf27af2abe",
+      "kind": "image",
+      "name": "svg-254",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/cab828cf27af2abe.svg",
+      "url": "inline-svg:cab828cf27af2abe"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7d2b9202b5805042",
+      "kind": "image",
+      "name": "svg-255",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/7d2b9202b5805042.svg",
+      "url": "inline-svg:7d2b9202b5805042"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "3f63cd92e3500ba8",
+      "kind": "image",
+      "name": "svg-256",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/3f63cd92e3500ba8.svg",
+      "url": "inline-svg:3f63cd92e3500ba8"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "9c303977a2d93995",
+      "kind": "image",
+      "name": "svg-257",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/9c303977a2d93995.svg",
+      "url": "inline-svg:9c303977a2d93995"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "2cd691337e74823c",
+      "kind": "image",
+      "name": "svg-258",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/2cd691337e74823c.svg",
+      "url": "inline-svg:2cd691337e74823c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "399dd907cfaffac4",
+      "kind": "image",
+      "name": "svg-259",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/399dd907cfaffac4.svg",
+      "url": "inline-svg:399dd907cfaffac4"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7a1006f15bb82a28",
+      "kind": "image",
+      "name": "svg-260",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/7a1006f15bb82a28.svg",
+      "url": "inline-svg:7a1006f15bb82a28"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "f4d13963a6effce9",
+      "kind": "image",
+      "name": "svg-261",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/f4d13963a6effce9.svg",
+      "url": "inline-svg:f4d13963a6effce9"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ad35c5d2cd7b6902",
+      "kind": "image",
+      "name": "svg-262",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/ad35c5d2cd7b6902.svg",
+      "url": "inline-svg:ad35c5d2cd7b6902"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "53592ceb363c816f",
+      "kind": "image",
+      "name": "svg-263",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/53592ceb363c816f.svg",
+      "url": "inline-svg:53592ceb363c816f"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "4e504a3c73e56103",
+      "kind": "image",
+      "name": "svg-264",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/4e504a3c73e56103.svg",
+      "url": "inline-svg:4e504a3c73e56103"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "44b5a644c6b7c03e",
+      "kind": "image",
+      "name": "svg-265",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/44b5a644c6b7c03e.svg",
+      "url": "inline-svg:44b5a644c6b7c03e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b817125b71ddb2d6",
+      "kind": "image",
+      "name": "svg-266",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/b817125b71ddb2d6.svg",
+      "url": "inline-svg:b817125b71ddb2d6"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "c6e126c03289d8c7",
+      "kind": "image",
+      "name": "svg-267",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/c6e126c03289d8c7.svg",
+      "url": "inline-svg:c6e126c03289d8c7"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "802ca09d1cb264f2",
+      "kind": "image",
+      "name": "svg-268",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/802ca09d1cb264f2.svg",
+      "url": "inline-svg:802ca09d1cb264f2"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "2a858bfd23190146",
+      "kind": "image",
+      "name": "svg-269",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/2a858bfd23190146.svg",
+      "url": "inline-svg:2a858bfd23190146"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "fd478530260e072d",
+      "kind": "image",
+      "name": "svg-270",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/fd478530260e072d.svg",
+      "url": "inline-svg:fd478530260e072d"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "bc63ddf624ba911e",
+      "kind": "image",
+      "name": "svg-271",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/bc63ddf624ba911e.svg",
+      "url": "inline-svg:bc63ddf624ba911e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "830f39d168819a1d",
+      "kind": "image",
+      "name": "svg-272",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/830f39d168819a1d.svg",
+      "url": "inline-svg:830f39d168819a1d"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "9c035552f62fd24f",
+      "kind": "image",
+      "name": "svg-273",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/9c035552f62fd24f.svg",
+      "url": "inline-svg:9c035552f62fd24f"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a5fda6ad6a640df9",
+      "kind": "image",
+      "name": "svg-274",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/a5fda6ad6a640df9.svg",
+      "url": "inline-svg:a5fda6ad6a640df9"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "6be9b73af76e5ffb",
+      "kind": "image",
+      "name": "svg-275",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/6be9b73af76e5ffb.svg",
+      "url": "inline-svg:6be9b73af76e5ffb"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a62ae4c608ecb92a",
+      "kind": "image",
+      "name": "svg-276",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/a62ae4c608ecb92a.svg",
+      "url": "inline-svg:a62ae4c608ecb92a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "9be1b1ef458a36b8",
+      "kind": "image",
+      "name": "svg-277",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/9be1b1ef458a36b8.svg",
+      "url": "inline-svg:9be1b1ef458a36b8"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "5c24038bf9d1ae2b",
+      "kind": "image",
+      "name": "svg-278",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/5c24038bf9d1ae2b.svg",
+      "url": "inline-svg:5c24038bf9d1ae2b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "1df8bba3c22d304e",
+      "kind": "image",
+      "name": "svg-279",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/1df8bba3c22d304e.svg",
+      "url": "inline-svg:1df8bba3c22d304e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "f5d7a2149335357b",
+      "kind": "image",
+      "name": "svg-280",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/f5d7a2149335357b.svg",
+      "url": "inline-svg:f5d7a2149335357b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d42bde13b8304785",
+      "kind": "image",
+      "name": "svg-281",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/d42bde13b8304785.svg",
+      "url": "inline-svg:d42bde13b8304785"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ca0696596d42dcd7",
+      "kind": "image",
+      "name": "svg-282",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/ca0696596d42dcd7.svg",
+      "url": "inline-svg:ca0696596d42dcd7"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "6f80df1c72e00e34",
+      "kind": "image",
+      "name": "svg-283",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/6f80df1c72e00e34.svg",
+      "url": "inline-svg:6f80df1c72e00e34"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "93b3f66845b5cea4",
+      "kind": "image",
+      "name": "svg-284",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/93b3f66845b5cea4.svg",
+      "url": "inline-svg:93b3f66845b5cea4"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "61e3c3f3933edd62",
+      "kind": "image",
+      "name": "svg-285",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/61e3c3f3933edd62.svg",
+      "url": "inline-svg:61e3c3f3933edd62"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "e3b3d57164a0da77",
+      "kind": "image",
+      "name": "svg-286",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/e3b3d57164a0da77.svg",
+      "url": "inline-svg:e3b3d57164a0da77"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "43fd297527e67c06",
+      "kind": "image",
+      "name": "svg-287",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/43fd297527e67c06.svg",
+      "url": "inline-svg:43fd297527e67c06"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "2fa7b067a7a66504",
+      "kind": "image",
+      "name": "svg-288",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/2fa7b067a7a66504.svg",
+      "url": "inline-svg:2fa7b067a7a66504"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b03789427b48ba9b",
+      "kind": "image",
+      "name": "svg-289",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/b03789427b48ba9b.svg",
+      "url": "inline-svg:b03789427b48ba9b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b50028dad9106998",
+      "kind": "image",
+      "name": "svg-290",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/b50028dad9106998.svg",
+      "url": "inline-svg:b50028dad9106998"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "fc0ae919ead6cf12",
+      "kind": "image",
+      "name": "svg-291",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/fc0ae919ead6cf12.svg",
+      "url": "inline-svg:fc0ae919ead6cf12"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "27155c54a1d5282b",
+      "kind": "image",
+      "name": "svg-292",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/27155c54a1d5282b.svg",
+      "url": "inline-svg:27155c54a1d5282b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a19e41da962601f8",
+      "kind": "image",
+      "name": "svg-293",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/a19e41da962601f8.svg",
+      "url": "inline-svg:a19e41da962601f8"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "3a0b0ad26153dc19",
+      "kind": "image",
+      "name": "svg-294",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/3a0b0ad26153dc19.svg",
+      "url": "inline-svg:3a0b0ad26153dc19"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "249079057cccf0a8",
+      "kind": "image",
+      "name": "svg-295",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/249079057cccf0a8.svg",
+      "url": "inline-svg:249079057cccf0a8"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "fc78d2b5d34bf9ac",
+      "kind": "image",
+      "name": "svg-296",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/fc78d2b5d34bf9ac.svg",
+      "url": "inline-svg:fc78d2b5d34bf9ac"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "e00d209dd79c6e23",
+      "kind": "image",
+      "name": "svg-297",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/e00d209dd79c6e23.svg",
+      "url": "inline-svg:e00d209dd79c6e23"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ac64e61c91e9325e",
+      "kind": "image",
+      "name": "svg-298",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/ac64e61c91e9325e.svg",
+      "url": "inline-svg:ac64e61c91e9325e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d50e656504544d61",
+      "kind": "image",
+      "name": "svg-299",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/d50e656504544d61.svg",
+      "url": "inline-svg:d50e656504544d61"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "3bd9e324080f125a",
+      "kind": "image",
+      "name": "svg-300",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/3bd9e324080f125a.svg",
+      "url": "inline-svg:3bd9e324080f125a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d7e30f47f0097e71",
+      "kind": "image",
+      "name": "svg-301",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/d7e30f47f0097e71.svg",
+      "url": "inline-svg:d7e30f47f0097e71"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "4aa0d7344bcf9dfa",
+      "kind": "image",
+      "name": "svg-302",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/4aa0d7344bcf9dfa.svg",
+      "url": "inline-svg:4aa0d7344bcf9dfa"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "4fbf61e03e0c2cf8",
+      "kind": "image",
+      "name": "svg-303",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/4fbf61e03e0c2cf8.svg",
+      "url": "inline-svg:4fbf61e03e0c2cf8"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "43bfe4beee350fe1",
+      "kind": "image",
+      "name": "svg-304",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/43bfe4beee350fe1.svg",
+      "url": "inline-svg:43bfe4beee350fe1"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d7938792ecfe6d0e",
+      "kind": "image",
+      "name": "svg-305",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/d7938792ecfe6d0e.svg",
+      "url": "inline-svg:d7938792ecfe6d0e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "fed00a25171c089d",
+      "kind": "image",
+      "name": "svg-306",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/fed00a25171c089d.svg",
+      "url": "inline-svg:fed00a25171c089d"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "662511f19c193721",
+      "kind": "image",
+      "name": "svg-307",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/662511f19c193721.svg",
+      "url": "inline-svg:662511f19c193721"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "244e1fc540d46c77",
+      "kind": "image",
+      "name": "svg-308",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/244e1fc540d46c77.svg",
+      "url": "inline-svg:244e1fc540d46c77"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "89e14570966ce0f2",
+      "kind": "image",
+      "name": "svg-309",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/89e14570966ce0f2.svg",
+      "url": "inline-svg:89e14570966ce0f2"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "879040145ed0461b",
+      "kind": "image",
+      "name": "svg-310",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/879040145ed0461b.svg",
+      "url": "inline-svg:879040145ed0461b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "28e15e6642d2498f",
+      "kind": "image",
+      "name": "svg-311",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/28e15e6642d2498f.svg",
+      "url": "inline-svg:28e15e6642d2498f"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a73dd2bc1d5905bd",
+      "kind": "image",
+      "name": "svg-312",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/a73dd2bc1d5905bd.svg",
+      "url": "inline-svg:a73dd2bc1d5905bd"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ee96bc42534a87bf",
+      "kind": "image",
+      "name": "svg-313",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/ee96bc42534a87bf.svg",
+      "url": "inline-svg:ee96bc42534a87bf"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "3b4d76c4dab8297a",
+      "kind": "image",
+      "name": "svg-314",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/3b4d76c4dab8297a.svg",
+      "url": "inline-svg:3b4d76c4dab8297a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "9bb8d7a24cdbafcd",
+      "kind": "image",
+      "name": "svg-315",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/9bb8d7a24cdbafcd.svg",
+      "url": "inline-svg:9bb8d7a24cdbafcd"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "3bda5efd3dcd850d",
+      "kind": "image",
+      "name": "svg-316",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/3bda5efd3dcd850d.svg",
+      "url": "inline-svg:3bda5efd3dcd850d"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "f1b36bc57f657022",
+      "kind": "image",
+      "name": "svg-317",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/f1b36bc57f657022.svg",
+      "url": "inline-svg:f1b36bc57f657022"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "9d9f5bbfe0e6ac1c",
+      "kind": "image",
+      "name": "svg-318",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/9d9f5bbfe0e6ac1c.svg",
+      "url": "inline-svg:9d9f5bbfe0e6ac1c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d211bab67eb97093",
+      "kind": "image",
+      "name": "svg-319",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/d211bab67eb97093.svg",
+      "url": "inline-svg:d211bab67eb97093"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "cbf481d89652e517",
+      "kind": "image",
+      "name": "svg-320",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/cbf481d89652e517.svg",
+      "url": "inline-svg:cbf481d89652e517"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "2262b127edff33c6",
+      "kind": "image",
+      "name": "svg-321",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/2262b127edff33c6.svg",
+      "url": "inline-svg:2262b127edff33c6"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ce72398345a38fe5",
+      "kind": "image",
+      "name": "svg-322",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/ce72398345a38fe5.svg",
+      "url": "inline-svg:ce72398345a38fe5"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "3166188ef66981b6",
+      "kind": "image",
+      "name": "svg-323",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/3166188ef66981b6.svg",
+      "url": "inline-svg:3166188ef66981b6"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "4648d15cf28c90f9",
+      "kind": "image",
+      "name": "svg-324",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/4648d15cf28c90f9.svg",
+      "url": "inline-svg:4648d15cf28c90f9"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "4d2420cd8e70b84f",
+      "kind": "image",
+      "name": "svg-325",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/4d2420cd8e70b84f.svg",
+      "url": "inline-svg:4d2420cd8e70b84f"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "9bbfcfda4bba4df7",
+      "kind": "image",
+      "name": "svg-326",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/9bbfcfda4bba4df7.svg",
+      "url": "inline-svg:9bbfcfda4bba4df7"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "230149d30480777a",
+      "kind": "image",
+      "name": "svg-327",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/230149d30480777a.svg",
+      "url": "inline-svg:230149d30480777a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "6190cf079a947f9f",
+      "kind": "image",
+      "name": "svg-328",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/6190cf079a947f9f.svg",
+      "url": "inline-svg:6190cf079a947f9f"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "1e61f57ee671ee90",
+      "kind": "image",
+      "name": "svg-329",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/1e61f57ee671ee90.svg",
+      "url": "inline-svg:1e61f57ee671ee90"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "eae8211ced783a74",
+      "kind": "image",
+      "name": "svg-330",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/eae8211ced783a74.svg",
+      "url": "inline-svg:eae8211ced783a74"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "1f06c4b9bc6d5a3c",
+      "kind": "image",
+      "name": "svg-331",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/1f06c4b9bc6d5a3c.svg",
+      "url": "inline-svg:1f06c4b9bc6d5a3c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a0824d17f271ae60",
+      "kind": "image",
+      "name": "svg-332",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/a0824d17f271ae60.svg",
+      "url": "inline-svg:a0824d17f271ae60"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "98d80d5eeeb9bb85",
+      "kind": "image",
+      "name": "svg-333",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/98d80d5eeeb9bb85.svg",
+      "url": "inline-svg:98d80d5eeeb9bb85"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d70c74fbc580c5b8",
+      "kind": "image",
+      "name": "svg-334",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/d70c74fbc580c5b8.svg",
+      "url": "inline-svg:d70c74fbc580c5b8"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7ad7f035b0815af3",
+      "kind": "image",
+      "name": "svg-335",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/7ad7f035b0815af3.svg",
+      "url": "inline-svg:7ad7f035b0815af3"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b3fd0306f2481540",
+      "kind": "image",
+      "name": "svg-336",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/b3fd0306f2481540.svg",
+      "url": "inline-svg:b3fd0306f2481540"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "c22bf045e046030f",
+      "kind": "image",
+      "name": "svg-337",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/c22bf045e046030f.svg",
+      "url": "inline-svg:c22bf045e046030f"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "9c1810d6cb9bb001",
+      "kind": "image",
+      "name": "svg-338",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/9c1810d6cb9bb001.svg",
+      "url": "inline-svg:9c1810d6cb9bb001"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "81b6121568aeb1a6",
+      "kind": "image",
+      "name": "svg-339",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/81b6121568aeb1a6.svg",
+      "url": "inline-svg:81b6121568aeb1a6"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7abec6b735527e31",
+      "kind": "image",
+      "name": "svg-340",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/7abec6b735527e31.svg",
+      "url": "inline-svg:7abec6b735527e31"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "316c1e65ea2979af",
+      "kind": "image",
+      "name": "svg-341",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/316c1e65ea2979af.svg",
+      "url": "inline-svg:316c1e65ea2979af"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "e8d08ba27d6b90c5",
+      "kind": "image",
+      "name": "svg-342",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/e8d08ba27d6b90c5.svg",
+      "url": "inline-svg:e8d08ba27d6b90c5"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "64feb19f438e9d04",
+      "kind": "image",
+      "name": "svg-343",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/64feb19f438e9d04.svg",
+      "url": "inline-svg:64feb19f438e9d04"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "cfd09ab943fa24ac",
+      "kind": "image",
+      "name": "svg-344",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/cfd09ab943fa24ac.svg",
+      "url": "inline-svg:cfd09ab943fa24ac"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "df084e372cdf1753",
+      "kind": "image",
+      "name": "svg-345",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/df084e372cdf1753.svg",
+      "url": "inline-svg:df084e372cdf1753"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ac3ab5b2b98819de",
+      "kind": "image",
+      "name": "svg-346",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/ac3ab5b2b98819de.svg",
+      "url": "inline-svg:ac3ab5b2b98819de"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "e600ed33fc4e5525",
+      "kind": "image",
+      "name": "svg-347",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/e600ed33fc4e5525.svg",
+      "url": "inline-svg:e600ed33fc4e5525"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "43004897090ea9fb",
+      "kind": "image",
+      "name": "svg-348",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/43004897090ea9fb.svg",
+      "url": "inline-svg:43004897090ea9fb"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "8540dc52cd9c5ce3",
+      "kind": "image",
+      "name": "svg-349",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/8540dc52cd9c5ce3.svg",
+      "url": "inline-svg:8540dc52cd9c5ce3"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "15cea23e21cb9b0d",
+      "kind": "image",
+      "name": "svg-350",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/15cea23e21cb9b0d.svg",
+      "url": "inline-svg:15cea23e21cb9b0d"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "de0e17d00cc8ad95",
+      "kind": "image",
+      "name": "svg-351",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/de0e17d00cc8ad95.svg",
+      "url": "inline-svg:de0e17d00cc8ad95"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "8ff114ee5e63bb88",
+      "kind": "image",
+      "name": "svg-352",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/8ff114ee5e63bb88.svg",
+      "url": "inline-svg:8ff114ee5e63bb88"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "99b05413f8fe3ce8",
+      "kind": "image",
+      "name": "svg-353",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/99b05413f8fe3ce8.svg",
+      "url": "inline-svg:99b05413f8fe3ce8"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "afa5e12a247f0cea",
+      "kind": "image",
+      "name": "svg-354",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/afa5e12a247f0cea.svg",
+      "url": "inline-svg:afa5e12a247f0cea"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "3f2cfac5ebdae875",
+      "kind": "image",
+      "name": "svg-355",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/3f2cfac5ebdae875.svg",
+      "url": "inline-svg:3f2cfac5ebdae875"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b8372b35902b0521",
+      "kind": "image",
+      "name": "svg-356",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/b8372b35902b0521.svg",
+      "url": "inline-svg:b8372b35902b0521"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "df97a620f25f215b",
+      "kind": "image",
+      "name": "svg-357",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/df97a620f25f215b.svg",
+      "url": "inline-svg:df97a620f25f215b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "29f20d7b42c70719",
+      "kind": "image",
+      "name": "svg-358",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/29f20d7b42c70719.svg",
+      "url": "inline-svg:29f20d7b42c70719"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "f5d93d1e7332cb00",
+      "kind": "image",
+      "name": "svg-359",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/f5d93d1e7332cb00.svg",
+      "url": "inline-svg:f5d93d1e7332cb00"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "42a4a3b021961006",
+      "kind": "image",
+      "name": "svg-360",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/42a4a3b021961006.svg",
+      "url": "inline-svg:42a4a3b021961006"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "c0829b443253c2f0",
+      "kind": "image",
+      "name": "svg-361",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/c0829b443253c2f0.svg",
+      "url": "inline-svg:c0829b443253c2f0"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "bd7da9204d934312",
+      "kind": "image",
+      "name": "svg-362",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/bd7da9204d934312.svg",
+      "url": "inline-svg:bd7da9204d934312"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "46243904fe6b25b6",
+      "kind": "image",
+      "name": "svg-363",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/46243904fe6b25b6.svg",
+      "url": "inline-svg:46243904fe6b25b6"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "aabedad1cb63b325",
+      "kind": "image",
+      "name": "svg-364",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/aabedad1cb63b325.svg",
+      "url": "inline-svg:aabedad1cb63b325"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "eaadb18124f7a903",
+      "kind": "image",
+      "name": "svg-365",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/eaadb18124f7a903.svg",
+      "url": "inline-svg:eaadb18124f7a903"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "5afad2260ec6d034",
+      "kind": "image",
+      "name": "svg-366",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/5afad2260ec6d034.svg",
+      "url": "inline-svg:5afad2260ec6d034"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "495e25a7966bdb46",
+      "kind": "image",
+      "name": "svg-367",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/495e25a7966bdb46.svg",
+      "url": "inline-svg:495e25a7966bdb46"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b5d709f62ac69033",
+      "kind": "image",
+      "name": "svg-368",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/b5d709f62ac69033.svg",
+      "url": "inline-svg:b5d709f62ac69033"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "30ef3dacd6d2116e",
+      "kind": "image",
+      "name": "svg-369",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/30ef3dacd6d2116e.svg",
+      "url": "inline-svg:30ef3dacd6d2116e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "506ac95b6a07c60a",
+      "kind": "image",
+      "name": "svg-370",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/506ac95b6a07c60a.svg",
+      "url": "inline-svg:506ac95b6a07c60a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b025099487c159aa",
+      "kind": "image",
+      "name": "svg-371",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/b025099487c159aa.svg",
+      "url": "inline-svg:b025099487c159aa"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "abba8ac8e4526ede",
+      "kind": "image",
+      "name": "svg-372",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/abba8ac8e4526ede.svg",
+      "url": "inline-svg:abba8ac8e4526ede"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "9a7469b8b839c94e",
+      "kind": "image",
+      "name": "svg-373",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/9a7469b8b839c94e.svg",
+      "url": "inline-svg:9a7469b8b839c94e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "93a9c0a6cc92438c",
+      "kind": "image",
+      "name": "svg-374",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/93a9c0a6cc92438c.svg",
+      "url": "inline-svg:93a9c0a6cc92438c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "9125695a5a1228ca",
+      "kind": "image",
+      "name": "svg-375",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/9125695a5a1228ca.svg",
+      "url": "inline-svg:9125695a5a1228ca"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "29db2c2aecf9889c",
+      "kind": "image",
+      "name": "svg-376",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/29db2c2aecf9889c.svg",
+      "url": "inline-svg:29db2c2aecf9889c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "239646d99e21e714",
+      "kind": "image",
+      "name": "svg-377",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/239646d99e21e714.svg",
+      "url": "inline-svg:239646d99e21e714"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "2d32b7fa7c043aae",
+      "kind": "image",
+      "name": "svg-378",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/2d32b7fa7c043aae.svg",
+      "url": "inline-svg:2d32b7fa7c043aae"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "534e80c562d31e33",
+      "kind": "image",
+      "name": "svg-379",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/534e80c562d31e33.svg",
+      "url": "inline-svg:534e80c562d31e33"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "e5e8d4a160da00f9",
+      "kind": "image",
+      "name": "svg-380",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/e5e8d4a160da00f9.svg",
+      "url": "inline-svg:e5e8d4a160da00f9"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b4e00f635818dc12",
+      "kind": "image",
+      "name": "svg-381",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/b4e00f635818dc12.svg",
+      "url": "inline-svg:b4e00f635818dc12"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "cf3cef78b427e83c",
+      "kind": "image",
+      "name": "svg-382",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/cf3cef78b427e83c.svg",
+      "url": "inline-svg:cf3cef78b427e83c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "1c2064bbb701319b",
+      "kind": "image",
+      "name": "svg-383",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/1c2064bbb701319b.svg",
+      "url": "inline-svg:1c2064bbb701319b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "4fb7d79d67ea2339",
+      "kind": "image",
+      "name": "svg-384",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/4fb7d79d67ea2339.svg",
+      "url": "inline-svg:4fb7d79d67ea2339"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "0733503995b032df",
+      "kind": "image",
+      "name": "svg-385",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/0733503995b032df.svg",
+      "url": "inline-svg:0733503995b032df"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "210bedc8161babb5",
+      "kind": "image",
+      "name": "svg-386",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/210bedc8161babb5.svg",
+      "url": "inline-svg:210bedc8161babb5"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b07da82b0adb598d",
+      "kind": "image",
+      "name": "svg-387",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/b07da82b0adb598d.svg",
+      "url": "inline-svg:b07da82b0adb598d"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ceac926261f385fd",
+      "kind": "image",
+      "name": "svg-388",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/ceac926261f385fd.svg",
+      "url": "inline-svg:ceac926261f385fd"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "f9aab3037918e7fc",
+      "kind": "image",
+      "name": "svg-389",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/f9aab3037918e7fc.svg",
+      "url": "inline-svg:f9aab3037918e7fc"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "4af0f9576be48431",
+      "kind": "image",
+      "name": "svg-390",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/4af0f9576be48431.svg",
+      "url": "inline-svg:4af0f9576be48431"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "063e22327075a90e",
+      "kind": "image",
+      "name": "svg-391",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/063e22327075a90e.svg",
+      "url": "inline-svg:063e22327075a90e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "133475e2b5101d74",
+      "kind": "image",
+      "name": "svg-392",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/133475e2b5101d74.svg",
+      "url": "inline-svg:133475e2b5101d74"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b339e28fccea8c34",
+      "kind": "image",
+      "name": "svg-393",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/b339e28fccea8c34.svg",
+      "url": "inline-svg:b339e28fccea8c34"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "895c1a6468b319db",
+      "kind": "image",
+      "name": "svg-394",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/895c1a6468b319db.svg",
+      "url": "inline-svg:895c1a6468b319db"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "8fd0cef15e6fae90",
+      "kind": "image",
+      "name": "svg-395",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/8fd0cef15e6fae90.svg",
+      "url": "inline-svg:8fd0cef15e6fae90"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "4fc645f2b3a31430",
+      "kind": "image",
+      "name": "svg-396",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/4fc645f2b3a31430.svg",
+      "url": "inline-svg:4fc645f2b3a31430"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ade28ecca3ebdb99",
+      "kind": "image",
+      "name": "svg-397",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/ade28ecca3ebdb99.svg",
+      "url": "inline-svg:ade28ecca3ebdb99"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "573202c6ae7a3515",
+      "kind": "image",
+      "name": "svg-398",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/573202c6ae7a3515.svg",
+      "url": "inline-svg:573202c6ae7a3515"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d45a08e926779126",
+      "kind": "image",
+      "name": "svg-399",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/d45a08e926779126.svg",
+      "url": "inline-svg:d45a08e926779126"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "cc91db15d85fbf2c",
+      "kind": "image",
+      "name": "svg-400",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/cc91db15d85fbf2c.svg",
+      "url": "inline-svg:cc91db15d85fbf2c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "e8af4a5d35373a68",
+      "kind": "image",
+      "name": "svg-401",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/e8af4a5d35373a68.svg",
+      "url": "inline-svg:e8af4a5d35373a68"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "c7741c51f280f59c",
+      "kind": "image",
+      "name": "svg-402",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/c7741c51f280f59c.svg",
+      "url": "inline-svg:c7741c51f280f59c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "5d05960f715a5a9a",
+      "kind": "image",
+      "name": "svg-403",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/5d05960f715a5a9a.svg",
+      "url": "inline-svg:5d05960f715a5a9a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "29001533a2207def",
+      "kind": "image",
+      "name": "svg-404",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/29001533a2207def.svg",
+      "url": "inline-svg:29001533a2207def"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a87290781cc7fcf0",
+      "kind": "image",
+      "name": "svg-405",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/a87290781cc7fcf0.svg",
+      "url": "inline-svg:a87290781cc7fcf0"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "761200cfbc1a3eda",
+      "kind": "image",
+      "name": "svg-406",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/761200cfbc1a3eda.svg",
+      "url": "inline-svg:761200cfbc1a3eda"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b994a974dde633f4",
+      "kind": "image",
+      "name": "svg-407",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/b994a974dde633f4.svg",
+      "url": "inline-svg:b994a974dde633f4"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "fa2b264bc44dda1c",
+      "kind": "image",
+      "name": "svg-408",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/fa2b264bc44dda1c.svg",
+      "url": "inline-svg:fa2b264bc44dda1c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "35c9f653175e3ce6",
+      "kind": "image",
+      "name": "svg-409",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/35c9f653175e3ce6.svg",
+      "url": "inline-svg:35c9f653175e3ce6"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "5242ea30dbae27fe",
+      "kind": "image",
+      "name": "svg-410",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/5242ea30dbae27fe.svg",
+      "url": "inline-svg:5242ea30dbae27fe"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "43368bdefb4e3826",
+      "kind": "image",
+      "name": "svg-411",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/43368bdefb4e3826.svg",
+      "url": "inline-svg:43368bdefb4e3826"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "725cae5917c8831b",
+      "kind": "image",
+      "name": "svg-412",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/725cae5917c8831b.svg",
+      "url": "inline-svg:725cae5917c8831b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "631d28729ab8e0e6",
+      "kind": "image",
+      "name": "svg-413",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/631d28729ab8e0e6.svg",
+      "url": "inline-svg:631d28729ab8e0e6"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "acfc1cd678c6b39e",
+      "kind": "image",
+      "name": "svg-414",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/acfc1cd678c6b39e.svg",
+      "url": "inline-svg:acfc1cd678c6b39e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "86bb974efee3bc1b",
+      "kind": "image",
+      "name": "svg-415",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/86bb974efee3bc1b.svg",
+      "url": "inline-svg:86bb974efee3bc1b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "13e7b936fd3ba556",
+      "kind": "image",
+      "name": "svg-416",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/13e7b936fd3ba556.svg",
+      "url": "inline-svg:13e7b936fd3ba556"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "9e439f44c1c3935a",
+      "kind": "image",
+      "name": "svg-417",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/9e439f44c1c3935a.svg",
+      "url": "inline-svg:9e439f44c1c3935a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d5d5d046cf9c1e3b",
+      "kind": "image",
+      "name": "svg-418",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/d5d5d046cf9c1e3b.svg",
+      "url": "inline-svg:d5d5d046cf9c1e3b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "999f45da7aaf5ecd",
+      "kind": "image",
+      "name": "svg-419",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/999f45da7aaf5ecd.svg",
+      "url": "inline-svg:999f45da7aaf5ecd"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "66ae7d2f6edbe2f3",
+      "kind": "image",
+      "name": "svg-420",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/66ae7d2f6edbe2f3.svg",
+      "url": "inline-svg:66ae7d2f6edbe2f3"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "77003065d7ae79d7",
+      "kind": "image",
+      "name": "svg-421",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/77003065d7ae79d7.svg",
+      "url": "inline-svg:77003065d7ae79d7"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "85c121d82abaa80f",
+      "kind": "image",
+      "name": "svg-422",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/85c121d82abaa80f.svg",
+      "url": "inline-svg:85c121d82abaa80f"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "4460c6f61b42d76f",
+      "kind": "image",
+      "name": "svg-423",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/4460c6f61b42d76f.svg",
+      "url": "inline-svg:4460c6f61b42d76f"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "af358eef16ae350b",
+      "kind": "image",
+      "name": "svg-424",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/af358eef16ae350b.svg",
+      "url": "inline-svg:af358eef16ae350b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7ed79985940c8a88",
+      "kind": "image",
+      "name": "svg-425",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/7ed79985940c8a88.svg",
+      "url": "inline-svg:7ed79985940c8a88"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "3414700a5c14bee0",
+      "kind": "image",
+      "name": "svg-426",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/3414700a5c14bee0.svg",
+      "url": "inline-svg:3414700a5c14bee0"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "5e497d0c6434f759",
+      "kind": "image",
+      "name": "svg-427",
+      "path": "/var/folders/sx/n60610716m5_sz1cmtw54gn80000gn/T/browser-use/assets/5a8fbb68-4321-471a-af22-dce0c19af290/5e497d0c6434f759.svg",
+      "url": "inline-svg:5e497d0c6434f759"
+    }
+  ],
+  "failures": []
+}

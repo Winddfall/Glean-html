@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>拾知真实面板演示</title>
+  <style>
+    html,body{width:100%;height:100%;margin:0;overflow:hidden;background:transparent}
+    body{font-family:-apple-system,"PingFang SC","Microsoft YaHei",system-ui,sans-serif}
+  </style>
+</head>
+<body>
+<script>
+(() => {
+  const now = Date.now();
+  const goals = [{
+    id:"demo-growth", title:"建立拾知产品增长系统", status:"active", color:"#4ade80", createdAt:now-259200000,
+    prompt:"收集与拾知产品定位、用户增长、内容运营、知识检索体验和商业化验证相关的资料。",
+    tasks:[
+      {id:"task-research",title:"研究知识管理用户需求",prompt:"关注知识工作者的记录、检索和复用痛点。",searchTerms:[{display:"用户痛点",query:"知识管理 用户痛点 信息复用"}],subtasks:[{id:"sub-interview",title:"整理访谈与社区反馈",prompt:"用户访谈、评论与社区反馈中的真实问题。"}]},
+      {id:"task-content",title:"设计内容增长实验",prompt:"关注内容选题、渠道分发和转化验证。",searchTerms:[{display:"增长案例",query:"SaaS 内容增长 案例"}],subtasks:[]}
+    ],
+    todos:[
+      {id:"todo-1",text:"补充 5 条知识检索用户访谈",taskId:"task-research",contrib:{},coverage:.62,status:"open",manual:false,searchTerms:[{display:"检索痛点",query:"个人知识库 搜索困难 用户反馈"}]},
+      {id:"todo-2",text:"整理首轮内容选题与渠道",taskId:"task-content",contrib:{},coverage:.35,status:"open",manual:false,searchTerms:[{display:"内容渠道",query:"效率工具 内容营销 渠道"}]}
+    ]
+  }];
+  const records = [
+    {id:"rec-1",url:"https://example.com/knowledge-retrieval",origin:"example.com",title:"知识检索产品的召回与排序框架",h1:"知识检索产品的召回与排序框架",meta:"产品研究",capturedAt:now-900000,excerptHash:"demo-1",preview:"从召回、重排到反馈闭环设计个人知识检索体验。",category:"goal:demo-growth",summary:"围绕个人知识库的召回、排序与反馈闭环，整理了可用于产品验证的关键指标。",keywords:["知识检索","召回","排序"],relevance:92,findings:["检索失败通常不是没有内容，而是缺少目标上下文。"],notes:[{topic:"产品机会",content:"将当前目标作为检索上下文，可以明显降低用户重新组织关键词的成本。",relevance:94}]},
+    {id:"rec-2",url:"https://example.com/content-growth",origin:"example.com",title:"从用户问题反推高意图内容",h1:"从用户问题反推高意图内容",meta:"内容运营",capturedAt:now-3600000,excerptHash:"demo-2",preview:"用用户问题组织内容选题与转化路径。",category:"goal:demo-growth",summary:"通过真实问题聚类形成内容主题，再连接产品使用场景。",keywords:["内容增长","用户问题"],relevance:86,findings:["高意图内容应直接对应用户正在完成的任务。"],notes:[]},
+    {id:"rec-3",url:"https://example.com/inspiration",origin:"example.com",title:"一组有趣的个人知识图谱交互",h1:"个人知识图谱交互",meta:"灵感",capturedAt:now-7200000,excerptHash:"demo-3",preview:"值得留作后续设计参考的交互灵感。",category:"slacking",summary:"暂未归入目标的视觉与交互灵感。",keywords:["知识图谱","交互"],relevance:34}
+  ];
+  localStorage.setItem("shizhi.goals", JSON.stringify(goals));
+  localStorage.setItem("shizhi.records", JSON.stringify(records));
+  localStorage.setItem("shizhi.queue", "[]");
+  localStorage.setItem("shizhi.state", JSON.stringify({workMode:true,activeSince:now,panelMode:"work"}));
+  const savedTheme = localStorage.getItem("shizhi.theme");
+  const systemDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+  let parentTheme = null;
+  try {
+    if (window.parent !== window) {
+      parentTheme = window.parent.document.documentElement.classList.contains("dark") ? "dark" : "light";
+    }
+  } catch (_) {
+    parentTheme = null;
+  }
+  const initialTheme = parentTheme || (savedTheme === "dark" || savedTheme === "light" ? savedTheme : systemDark ? "dark" : "light");
+  localStorage.setItem("shizhi.theme", initialTheme);
+  document.documentElement.dataset.theme = initialTheme;
+  document.documentElement.style.colorScheme = initialTheme;
+
+  window.addEventListener("message", (event) => {
+    if (event.origin !== location.origin || event.data?.type !== "shizhi-theme") return;
+    const theme = event.data.theme === "dark" ? "dark" : "light";
+    localStorage.setItem("shizhi.theme", theme);
+    document.documentElement.dataset.theme = theme;
+    document.documentElement.style.colorScheme = theme;
+    const dock = document.getElementById("shizhi-host")?.shadowRoot?.querySelector(".sz-dock");
+    if (dock && dock.classList.contains("dark") !== (theme === "dark")) {
+      dock.querySelector('[data-act="theme"]')?.click();
+    }
+  });
+  localStorage.setItem("shizhi.themeColor", "#5f8f55");
+  localStorage.setItem("shizhi.profile", JSON.stringify({updatedAt:now,facts:["持续关注 AI 知识检索与个人知识管理","正在验证拾知的产品增长路径","偏好从真实用户问题中提炼机会"],preferences:["产品研究","内容运营","知识检索"]}));
+  localStorage.setItem("shizhi.settings", JSON.stringify({excludedSites:[location.href],linkedUrl:"",analysisPrompt:"",askDsh:true}));
+  localStorage.removeItem("shizhi.panelSize");
+  localStorage.removeItem("shizhi.fabPos");
+
+  window.LLMBridge = { chat: async () => JSON.stringify({title:"新目标",prompt:"",questions:[],tasks:[]}) };
+  const script = document.createElement("script");
+  script.src = "/sites/shizhi/glean.js";
+  script.onload = () => {
+    let attempts = 0;
+    const fit = () => {
+      const host = document.getElementById("shizhi-host");
+      const root = host && host.shadowRoot;
+      const dock = root && root.querySelector(".sz-dock");
+      const panel = root && root.querySelector(".sz-panel");
+      const fab = root && root.querySelector('[data-act="fab"]');
+      if (!dock || !panel || !fab) {
+        if (attempts++ < 80) requestAnimationFrame(fit);
+        return;
+      }
+      const narrow = innerWidth < 520;
+      const width = narrow ? 420 : innerWidth;
+      const height = narrow ? 620 : innerHeight;
+      const scale = narrow ? Math.min(1, innerWidth / width, innerHeight / height) : 1;
+      dock.style.left = (innerWidth - 40) + "px";
+      dock.style.top = (innerHeight + 8) + "px";
+      dock.classList.remove("flip-h", "flip-v");
+      panel.style.width = width + "px";
+      panel.style.height = height + "px";
+      panel.style.maxHeight = "none";
+      panel.style.border = "0";
+      panel.style.borderRadius = "34px";
+      panel.style.boxShadow = "none";
+      root.querySelector(".sz-resize")?.remove();
+      root.querySelector('[data-act="close"]')?.remove();
+      panel.style.transformOrigin = "bottom right";
+      panel.style.transform = scale === 1 ? "" : `scale(${scale})`;
+      fab.click();
+      const syncFab = () => {
+        const opened = panel.classList.contains("open");
+        fab.style.opacity = opened ? "0" : "1";
+        fab.style.pointerEvents = opened ? "none" : "auto";
+      };
+      syncFab();
+      root.addEventListener("click", () => setTimeout(syncFab));
+      const todo = root.querySelector(".sz-todo");
+      if (todo) todo.style.display = "none";
+      if (new URLSearchParams(location.search).get("collapsed") !== "0") {
+        const caret = root.querySelector('[data-act="toggle-node"][data-id="g:demo-growth"]');
+        if (caret) caret.click();
+      }
+    };
+    fit();
+  };
+  document.head.appendChild(script);
+})();
+</script>
+</body>
+</html>
