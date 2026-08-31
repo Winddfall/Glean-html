@@ -4,8 +4,18 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { guideNav } from "@/lib/guide-nav";
 
+function normalizeGuidePathname(pathname: string) {
+  const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+  const pathWithoutBase =
+    basePath && (pathname === basePath || pathname.startsWith(`${basePath}/`))
+      ? pathname.slice(basePath.length) || "/"
+      : pathname;
+
+  return pathWithoutBase.length > 1 ? pathWithoutBase.replace(/\/+$/, "") : pathWithoutBase;
+}
+
 export function GuideSidebar() {
-  const pathname = usePathname();
+  const pathname = normalizeGuidePathname(usePathname());
 
   return (
     <aside className="guide-sidebar" aria-label="指南目录">
@@ -15,9 +25,14 @@ export function GuideSidebar() {
           <nav className="guide-nav">
             {group.items.map((item) => {
               const href = `/guide/${item.slug}`;
-              const isActive = pathname === href || (item.slug === "install" && pathname === "/guide/");
+              const isActive = pathname === href || (item.slug === "install" && pathname === "/guide");
               return (
-                <Link key={item.slug} href={href} className={isActive ? "is-active" : ""}>
+                <Link
+                  key={item.slug}
+                  href={href}
+                  className={isActive ? "is-active" : ""}
+                  aria-current={isActive ? "page" : undefined}
+                >
                   {item.title}
                 </Link>
               );
