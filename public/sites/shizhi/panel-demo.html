@@ -6,6 +6,7 @@
   <title>拾知真实面板演示</title>
   <style>
     html,body{width:100%;height:100%;margin:0;overflow:hidden;background:transparent}
+    #shizhi-host{display:block;width:100%;height:100%;overflow:hidden}
     body{font-family:-apple-system,"PingFang SC","Microsoft YaHei",system-ui,sans-serif}
   </style>
 </head>
@@ -53,8 +54,6 @@
     if (event.origin !== location.origin || event.data?.type !== "shizhi-theme") return;
     const theme = event.data.theme === "dark" ? "dark" : "light";
     localStorage.setItem("shizhi.theme", theme);
-    document.documentElement.dataset.theme = theme;
-    document.documentElement.style.colorScheme = theme;
     const dock = document.getElementById("shizhi-host")?.shadowRoot?.querySelector(".sz-dock");
     if (dock && dock.classList.contains("dark") !== (theme === "dark")) {
       dock.querySelector('[data-act="theme"]')?.click();
@@ -81,23 +80,48 @@
         if (attempts++ < 80) requestAnimationFrame(fit);
         return;
       }
-      const narrow = innerWidth < 520;
-      const width = narrow ? 420 : innerWidth;
-      const height = narrow ? 620 : innerHeight;
-      const scale = narrow ? Math.min(1, innerWidth / width, innerHeight / height) : 1;
-      dock.style.left = (innerWidth - 40) + "px";
-      dock.style.top = (innerHeight + 8) + "px";
+      // The iframe is the source of truth for the preview card dimensions.
+      // Using the old 420x620 narrow viewport scaled the panel down and left
+      // empty space inside the responsive 4:3 Hero card.
+      const width = Math.max(1, document.documentElement.clientWidth || innerWidth);
+      const height = Math.max(1, document.documentElement.clientHeight || innerHeight);
+      // The outer preview shell owns the border, radius, and clipping. Keep the
+      // embedded panel flush with that shell instead of recreating a second card.
+      dock.style.left = "0px";
+      dock.style.top = "0px";
+      dock.style.right = "auto";
+      dock.style.bottom = "auto";
+      dock.style.width = "100%";
+      dock.style.height = "100%";
       dock.classList.remove("flip-h", "flip-v");
-      panel.style.width = width + "px";
-      panel.style.height = height + "px";
+      panel.style.inset = "0";
+      panel.style.width = "100%";
+      panel.style.height = "100%";
+      panel.style.maxWidth = "none";
       panel.style.maxHeight = "none";
+      panel.style.minHeight = "0";
       panel.style.border = "0";
-      panel.style.borderRadius = "34px";
+      panel.style.borderRadius = "0";
       panel.style.boxShadow = "none";
       root.querySelector(".sz-resize")?.remove();
       root.querySelector('[data-act="close"]')?.remove();
       panel.style.transformOrigin = "bottom right";
-      panel.style.transform = scale === 1 ? "" : `scale(${scale})`;
+      panel.style.transform = "";
+      // The outer preview shell owns the boundary; the embedded panel fills it.
+      const style = document.createElement("style");
+      style.textContent = [
+        ".sz-dock{left:0!important;top:0!important;right:auto!important;bottom:auto!important;width:100%!important;height:100%!important;overflow:visible!important}",
+        ".sz-fab{left:auto!important;top:auto!important;right:8px!important;bottom:8px!important}",
+        ".sz-panel{inset:0!important;width:100%!important;height:100%!important;max-width:none!important;max-height:none!important;min-height:0!important;border:0!important;border-radius:0!important;box-shadow:none!important;overflow:hidden!important}",
+        // Keep the linked-site input inside a real footer row with enough room.
+        ".sz-foot{position:relative!important;z-index:1!important;flex:none!important;min-height:48px!important;padding:8px 12px 12px!important;overflow:visible!important}",
+        ".sz-foot .sz-input{display:block!important;min-width:0!important}",
+        ".sz-foot [data-act=\"ai-linked\"]{display:inline-flex!important;position:relative!important;right:0!important;transform:none!important}",
+        // Smooth theme tint between light/dark across every panel element (vars flip on .sz-dock.dark).
+        ".sz-dock,.sz-dock *,.sz-dock *::before,.sz-dock *::after{transition-property:background-color,border-color,color,fill,stroke,box-shadow,outline-color,text-decoration-color;transition-duration:.3s;transition-timing-function:ease-in-out}",
+        ".sz-dock .sz-tab,.sz-dock .sz-ibtn,.sz-dock button{transition-property:background-color,border-color,color,fill,stroke,box-shadow,transform,opacity;transition-duration:.3s}",
+      ].join("\\n");
+      root.appendChild(style);
       fab.click();
       const syncFab = () => {
         const opened = panel.classList.contains("open");

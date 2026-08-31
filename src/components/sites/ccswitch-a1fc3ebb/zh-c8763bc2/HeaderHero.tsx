@@ -1,80 +1,62 @@
 "use client";
 
 import Image from "next/image";
-import { useEffect, useState } from "react";
-import { ArrowRight, Download, Menu, X } from "lucide-react";
+import { ArrowRight, Download } from "lucide-react";
 import { Reveal } from "@/components/sites/shizhi/Reveal";
 import { RealShizhiPanel } from "@/components/sites/shizhi/RealShizhiPanel";
-import { socialLinks } from "@/components/sites/shizhi/SocialIcons";
-import { ThemeToggle } from "@/components/sites/shizhi/ThemeToggle";
-
-const nav = [
-  ["首页", "#home"],
-  ["能力", "#features"],
-  ["工作流", "#workflow"],
-  ["使用场景", "#stories"],
-  ["常见问题", "#faq"],
-] as const;
+import { SiteHeader } from "@/components/sites/shizhi/SiteHeader";
 
 export function HeaderHero() {
-  const [scrolled, setScrolled] = useState(false);
-  const [open, setOpen] = useState(false);
-
-  useEffect(() => {
-    const update = () => setScrolled(window.scrollY > 12);
-    update();
-    window.addEventListener("scroll", update, { passive: true });
-    return () => window.removeEventListener("scroll", update);
-  }, []);
-
   return (
     <>
-      <header className={`site-header ${scrolled ? "is-scrolled" : ""}`}>
-        <div className="cc-wide flex h-full items-center justify-between">
-          <a href="#home" className="brand-lockup" aria-label="拾知首页">
-            <Image src="/sites/shizhi/logo.jpg" alt="" width={38} height={38} priority loading="eager" />
-            <span>拾知</span>
-          </a>
-          <nav className="hidden items-center gap-8 lg:flex" aria-label="主导航">
-            {nav.map(([label, href]) => <a key={label} href={href}>{label}</a>)}
-          </nav>
-          <div className="hidden items-center gap-1.5 lg:flex">
-            <ThemeToggle />
-            <div className="header-socials">
-              {socialLinks.map(({ name, Icon }) => (
-                <a key={name} href="#" aria-label={name} title={`${name}（链接待添加）`} onClick={(event) => event.preventDefault()}><Icon className="h-[18px] w-[18px]" /></a>
-              ))}
-            </div>
-          </div>
-          <div className="mobile-actions lg:hidden">
-            <ThemeToggle />
-            <button type="button" className="mobile-menu-button" aria-label="打开导航菜单" onClick={() => setOpen((value) => !value)}>{open ? <X /> : <Menu />}</button>
-          </div>
-        </div>
-        {open && (
-          <div className="mobile-menu lg:hidden">
-            {nav.map(([label, href]) => <a key={label} href={href} onClick={() => setOpen(false)}>{label}</a>)}
-            <div className="mt-3 flex gap-2 border-t border-[var(--line)] pt-4">{socialLinks.map(({ name, Icon }) => <a key={name} href="#" aria-label={name} onClick={(event) => event.preventDefault()}><Icon className="h-5 w-5" /></a>)}</div>
-          </div>
-        )}
-      </header>
+      <SiteHeader />
 
       <section id="home" className="hero-section">
         <div className="hero-glow hero-glow-one" />
         <div className="hero-glow hero-glow-two" />
-        <div className="hero-grid" />
-        <div className="cc-wide relative grid items-center gap-14 lg:grid-cols-[.82fr_1.18fr]">
+        <div className="cc-wide relative hero-layout">
           <Reveal className="hero-copy" variant="left">
-            <h1><span>拾知</span><br />让浏览，<br />沉淀为知识。</h1>
-            <p>在浏览的当下记录、分析与归类，让每一次搜索都服务于目标，让零散信息持续产生价值。</p>
+            <h1><span>Glean</span><br />让浏览，沉淀为知识。</h1>
+            <p className="hero-slogan">思维有迹，万物归档。</p>
             <div className="hero-actions">
-              <a href="#download" className="button-primary"><Download className="h-4 w-4" />免费体验</a>
-              <a href="#workflow" className="button-secondary">看看它如何工作 <ArrowRight className="h-4 w-4" /></a>
+              <a href="https://web.tabbit.com/share/skill/EcrPZgXkFP" target="_blank" rel="noopener noreferrer" className="button-primary"><Download className="h-4 w-4" />下载安装</a>
+              <a href="/guide/" className="button-secondary">玩转拾知 <ArrowRight className="h-4 w-4" /></a>
             </div>
-            <div className="hero-proof"><span><i />本地优先</span><span><i />AI 智能拆解</span><span><i />跨网页持续积累</span></div>
+            <div className="hero-proof">
+              <span>基于 <a href="https://www.tabbit.com" target="_blank" rel="noopener noreferrer">Tabbit</a> 脚本妙招强力驱动</span>
+            </div>
           </Reveal>
-          <Reveal className="hero-panel-wrap" delay={140} variant="right"><RealShizhiPanel compact /></Reveal>
+          <div className="hero-panel-wrap"><Reveal delay={140} variant="right"><RealShizhiPanel compact /></Reveal></div>
         </div>
+        <section className="slogan-space" aria-labelledby="brand-slogan-title">
+          <div className="slogan-content">
+            <h2 id="brand-slogan-title">重塑浏览体验。</h2>
+            <p>我们不造妙招，我们记录足迹。<br />让工具顺应你的思考——你负责专注，剩下的交给越来越懂你的 Glean。</p>
+          </div>
+        </section>
+        <figure className="hero-dsh-visual">
+          <Image
+            src="/images/product/dsh.png"
+            alt="Glean 知识管理工作台预览"
+            width={4267}
+            height={2282}
+            sizes="(max-width: 767px) calc(100vw - 32px), min(1120px, calc(100vw - 48px))"
+          />
+        </figure>
+        <section className="hero-feature-strip" aria-label="Glean 核心能力">
+          {[
+            ["自动记录", "看见注意力的走向。", "你打开的每一个页面，都是一次选择。Glean 替你照单全收，连那些走神的瞬间也不放过。"],
+            ["自动分析", "让信息自己找到归处。", "你只管翻阅，它负责判断。回来时，碎片已经拼成了全貌。"],
+            ["输入补全", "让思路不断流。", "光标落下的地方，就是 Glean 接管的地方。从一词一句到成段成篇，思考不再卡壳。"],
+            ["用户画像", "让 AI 认识你。", "沉默是最深的了解。它不问你，但每次开口都恰中你心。"],
+          ].map(([title, heading, description]) => (
+            <article key={title}>
+              <h3>{title}</h3>
+              <p className="hero-feature-heading">{heading}</p>
+              <p>{description}</p>
+            </article>
+          ))}
+        </section>
       </section>
     </>
   );

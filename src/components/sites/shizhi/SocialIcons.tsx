@@ -25,7 +25,7 @@ export function GithubIcon({ className = "" }: { className?: string }) {
 }
 
 export const socialLinks = [
-  { name: "GitHub", Icon: GithubIcon },
-  { name: "哔哩哔哩", Icon: BilibiliIcon },
-  { name: "小红书", Icon: RedNoteIcon },
+  { name: "GitHub", Icon: GithubIcon, href: "https://github.com/Winddfall/Glean" },
+  { name: "哔哩哔哩", Icon: BilibiliIcon, href: "#" },
+  { name: "小红书", Icon: RedNoteIcon, href: "#" },
 ] as const;
