@@ -17,7 +17,7 @@
 3. 点击 `问问 Deepseek Harness`。
 4. 在 DeepSeek Harness 中继续提问。
 
-![ask dsh](/images/product/ask-dsh.gif)
+![ask dsh](/images/product/ask-dsh.webp)
 
 ## 选区越准，回答越稳
 

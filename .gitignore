@@ -9,7 +9,6 @@ out/
 build/
 dist/
 glean-offline.html
-scripts/build-offline-html.mjs
 
 # Environment
 .env

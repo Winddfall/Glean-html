@@ -1,7 +1,7 @@
 # ProductDeveloper Specification
 
 ## Overview
-- Target: `src/components/sites/ccswitch-a1fc3ebb/zh-c8763bc2/ProductDeveloper.tsx`
+- Target: `src/components/sites/shizhi/ProductDeveloper.tsx`
 - Screenshots: `desktop-sweep-03.png`, `desktop-sweep-04.png`, `desktop-sweep-05.png`
 - Interaction: showcase pill selection; static developer benefits.
 
@@ -9,7 +9,7 @@
 - Muted section background, desktop padding 128px 0 and height ~1144px.
 - Center heading `直观的操作界面`, subtitle `七应用切换、工具栏和本地路由状态一眼可见`.
 - Three pills: Provider 管理 (active orange), 本地路由, 使用统计.
-- Large dark application mockup (max-width ~980px) with macOS window header and provider-management UI matching hero, rounded 18px, deep shadow, blue selected row. Reuse a shared `AppMockup` implementation if available.
+- Large dark application mockup (max-width ~980px) with macOS window header and provider-management UI matching hero, rounded 18px, deep shadow, blue selected row. Reuse the embedded `RealShizhiPanel` implementation.
 - On mobile stack within 884px section; mockup scales down without horizontal overflow.
 
 ## Developer section

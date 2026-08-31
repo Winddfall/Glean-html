@@ -8,6 +8,11 @@ import { socialLinks } from "@/components/sites/shizhi/SocialIcons";
 import { ThemeToggle } from "@/components/sites/shizhi/ThemeToggle";
 import { withBasePath } from "@/lib/base-path";
 
+const partnerLinks = [
+  { name: "Watcha 拾知产品页", href: "https://watcha.cn/products/shi-zhi", image: "/sites/shizhi/partners/watcha.svg", compact: true },
+  { name: "AI工具集拾知介绍", href: "https://www.ai345.info/post/post-1788144318375", image: "/sites/shizhi/partners/ai345.png", compact: false },
+] as const;
+
 const nav = [
   ["首页", "/#home"],
   ["指南", "/guide/"],
@@ -42,6 +47,11 @@ export function SiteHeader() {
             {socialLinks.map(({ name, Icon, href }) => (
               <a key={name} href={href} aria-label={name} title={name} target="_blank" rel="noopener noreferrer"><Icon className="h-[18px] w-[18px]" /></a>
             ))}
+            {partnerLinks.map(({ name, href, image, compact }) => (
+              <a key={name} href={href} aria-label={name} title={name} target="_blank" rel="noopener noreferrer">
+                <Image className={`partner-icon ${compact ? "is-compact" : ""}`} src={withBasePath(image)} alt="" width={30} height={30} unoptimized />
+              </a>
+            ))}
           </div>
         </div>
         <div className="mobile-actions lg:hidden">
@@ -52,7 +62,14 @@ export function SiteHeader() {
       {open && (
         <div className="mobile-menu lg:hidden">
           {nav.map(([label, href]) => <Link key={label} href={href} onClick={() => setOpen(false)}>{label}</Link>)}
-          <div className="mt-3 flex gap-2 border-t border-[var(--line)] pt-4">{socialLinks.map(({ name, Icon, href }) => <a key={name} href={href} aria-label={name} target="_blank" rel="noopener noreferrer"><Icon className="h-5 w-5" /></a>)}</div>
+          <div className="mobile-external-links mt-3 border-t border-[var(--line)] pt-4">
+            {partnerLinks.map(({ name, href, image, compact }) => (
+              <a key={name} href={href} aria-label={name} title={name} target="_blank" rel="noopener noreferrer">
+                <Image className={compact ? "is-compact" : ""} src={withBasePath(image)} alt="" width={30} height={30} unoptimized />
+              </a>
+            ))}
+            {socialLinks.map(({ name, Icon, href }) => <a key={name} href={href} aria-label={name} title={name} target="_blank" rel="noopener noreferrer"><Icon className="h-5 w-5" /></a>)}
+          </div>
         </div>
       )}
     </header>

@@ -8,7 +8,7 @@
 - Page key: `zh-c8763bc2`
 - Destination route: `/` (per the untouched-template single-URL exception)
 - Route file: `src/app/page.tsx`
-- Component root: `src/components/sites/ccswitch-a1fc3ebb/zh-c8763bc2/`
+- Component root: `src/components/sites/shizhi/`
 - Artifact root: `docs/research/ccswitch-a1fc3ebb/zh-c8763bc2/`
 - Screenshot root: `docs/design-references/ccswitch-a1fc3ebb/zh-c8763bc2/`
 - Asset root: `public/sites/ccswitch-a1fc3ebb/zh-c8763bc2/`

@@ -1,8 +1,8 @@
-import { CtaFooter } from "@/components/sites/ccswitch-a1fc3ebb/zh-c8763bc2/CtaFooter";
-import { HeaderHero } from "@/components/sites/ccswitch-a1fc3ebb/zh-c8763bc2/HeaderHero";
-import { ProductDeveloper } from "@/components/sites/ccswitch-a1fc3ebb/zh-c8763bc2/ProductDeveloper";
-import { SponsorsFeatures } from "@/components/sites/ccswitch-a1fc3ebb/zh-c8763bc2/SponsorsFeatures";
-import { TestimonialsFaq } from "@/components/sites/ccswitch-a1fc3ebb/zh-c8763bc2/TestimonialsFaq";
+import { CtaFooter } from "@/components/sites/shizhi/CtaFooter";
+import { HeaderHero } from "@/components/sites/shizhi/HeaderHero";
+import { ProductDeveloper } from "@/components/sites/shizhi/ProductDeveloper";
+import { SponsorsFeatures } from "@/components/sites/shizhi/SponsorsFeatures";
+import { TestimonialsFaq } from "@/components/sites/shizhi/TestimonialsFaq";
 import { KnowledgeField } from "@/components/sites/shizhi/KnowledgeField";
 
 export default function Home() {

@@ -1,7 +1,7 @@
 # CtaFooter Specification
 
 ## Overview
-- Target: `src/components/sites/ccswitch-a1fc3ebb/zh-c8763bc2/CtaFooter.tsx`
+- Target: `src/components/sites/shizhi/CtaFooter.tsx`
 - Screenshots: `desktop-sweep-08.png`, `desktop-sweep-09.png`
 - Interaction: link/button hover only.
 

@@ -1,7 +1,7 @@
 # SponsorsFeatures Specification
 
 ## Overview
-- Target: `src/components/sites/ccswitch-a1fc3ebb/zh-c8763bc2/SponsorsFeatures.tsx`
+- Target: `src/components/sites/shizhi/SponsorsFeatures.tsx`
 - Screenshots: `desktop-sweep-01.png`, `desktop-sweep-02.png`
 - Interaction: static with hover/entrance states.
 

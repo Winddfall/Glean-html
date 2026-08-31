@@ -1,7 +1,7 @@
 # TestimonialsFaq Specification
 
 ## Overview
-- Target: `src/components/sites/ccswitch-a1fc3ebb/zh-c8763bc2/TestimonialsFaq.tsx`
+- Target: `src/components/sites/shizhi/TestimonialsFaq.tsx`
 - Screenshots: `desktop-sweep-06.png`, `desktop-sweep-07.png`
 - Interaction: time-driven marquee; click-driven accordion.
 

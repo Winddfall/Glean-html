@@ -1,7 +1,7 @@
 # HeaderHero Specification
 
 ## Overview
-- Target: `src/components/sites/ccswitch-a1fc3ebb/zh-c8763bc2/HeaderHero.tsx`
+- Target: `src/components/sites/shizhi/HeaderHero.tsx`
 - Screenshot: `desktop-sweep-00.png`
 - Interaction: fixed scroll-reactive header; click-driven app switcher; mobile menu.
 
