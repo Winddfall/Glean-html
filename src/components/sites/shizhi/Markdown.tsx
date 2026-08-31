@@ -1,14 +1,19 @@
+/* eslint-disable @next/next/no-img-element */
 import ReactMarkdown from "react-markdown";
+import Link from "next/link";
 import remarkGfm from "remark-gfm";
 import type { Components } from "react-markdown";
+import { withBasePath } from "@/lib/base-path";
 
 const components: Components = {
   img: ({ src, alt, ...rest }) => {
     const isStorageIllustration = src === "/images/product/storage.png";
 
+    const imageSrc = typeof src === "string" ? withBasePath(src) : src;
+
     return (
       <img
-        src={src}
+        src={imageSrc}
         alt={alt ?? ""}
         {...rest}
         {...(isStorageIllustration
@@ -22,9 +27,9 @@ const components: Components = {
     if (href && /\.md$/i.test(href.split("#")[0])) {
       const base = href.replace(/^\.\/(.*)\.md$/, "$1").replace(/\.md$/, "");
       return (
-        <a href={`/guide/${base}`} {...rest}>
+        <Link href={`/guide/${base}`} {...rest}>
           {children}
-        </a>
+        </Link>
       );
     }
     const isExternal = href && /^https?:\/\//.test(href);

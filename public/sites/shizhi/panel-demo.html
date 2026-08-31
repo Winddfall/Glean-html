@@ -67,7 +67,7 @@
 
   window.LLMBridge = { chat: async () => JSON.stringify({title:"新目标",prompt:"",questions:[],tasks:[]}) };
   const script = document.createElement("script");
-  script.src = "/sites/shizhi/glean.js";
+  script.src = "./glean.js";
   script.onload = () => {
     let attempts = 0;
     const fit = () => {

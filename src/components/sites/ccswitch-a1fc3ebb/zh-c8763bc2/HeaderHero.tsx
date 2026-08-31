@@ -1,10 +1,12 @@
 "use client";
 
 import Image from "next/image";
+import Link from "next/link";
 import { ArrowRight, Download } from "lucide-react";
 import { Reveal } from "@/components/sites/shizhi/Reveal";
 import { RealShizhiPanel } from "@/components/sites/shizhi/RealShizhiPanel";
 import { SiteHeader } from "@/components/sites/shizhi/SiteHeader";
+import { withBasePath } from "@/lib/base-path";
 
 export function HeaderHero() {
   return (
@@ -20,7 +22,7 @@ export function HeaderHero() {
             <p className="hero-slogan">思维有迹，万物归档。</p>
             <div className="hero-actions">
               <a href="https://web.tabbit.com/share/skill/EcrPZgXkFP" target="_blank" rel="noopener noreferrer" className="button-primary"><Download className="h-4 w-4" />下载安装</a>
-              <a href="/guide/" className="button-secondary">玩转拾知 <ArrowRight className="h-4 w-4" /></a>
+              <Link href="/guide/" className="button-secondary">玩转拾知 <ArrowRight className="h-4 w-4" /></Link>
             </div>
             <div className="hero-proof">
               <span>基于 <a href="https://www.tabbit.com" target="_blank" rel="noopener noreferrer">Tabbit</a> 脚本妙招强力驱动</span>
@@ -36,7 +38,7 @@ export function HeaderHero() {
         </section>
         <figure className="hero-dsh-visual">
           <Image
-            src="/images/product/dsh.png"
+            src={withBasePath("/images/product/dsh.png")}
             alt="Glean 知识管理工作台预览"
             width={4267}
             height={2282}

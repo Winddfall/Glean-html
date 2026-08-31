@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { withBasePath } from "@/lib/base-path";
 import { ArrowRight, Download } from "lucide-react";
 import { Reveal } from "@/components/sites/shizhi/Reveal";
 import { socialLinks } from "@/components/sites/shizhi/SocialIcons";
@@ -21,7 +22,7 @@ export function CtaFooter() {
       </section>
       <footer>
         <div className="cc-container footer-grid">
-          <div className="footer-brand"><a href="#home"><Image src="/sites/shizhi/logo.jpg" alt="" width={40} height={40} /><strong>拾知</strong></a><p>拾起碎片，沉淀认知。<br />一个为长期思考而生的浏览知识助手。</p><div>{socialLinks.map(({ name, Icon }) => <a key={name} href="#" aria-label={name} title={`${name}（链接待添加）`}><Icon /></a>)}</div></div>
+          <div className="footer-brand"><a href="#home"><Image src={withBasePath("/sites/shizhi/logo.jpg")} alt="" width={40} height={40} /><strong>拾知</strong></a><p>拾起碎片，沉淀认知。<br />一个为长期思考而生的浏览知识助手。</p><div>{socialLinks.map(({ name, Icon }) => <a key={name} href="#" aria-label={name} title={`${name}（链接待添加）`}><Icon /></a>)}</div></div>
           <div className="footer-links">{groups.map((group) => <div key={group.title}><h3>{group.title}</h3>{group.links.map((link) => <a key={link} href="#">{link}</a>)}</div>)}</div>
         </div>
         <div className="cc-container footer-bottom"><span>© 2026 拾知 Shizhi</span><span>为有目标的探索而设计</span></div>

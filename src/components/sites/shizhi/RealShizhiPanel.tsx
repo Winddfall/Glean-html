@@ -2,6 +2,7 @@
 
 import { useCallback, useEffect, useRef } from "react";
 import { THEME_EVENT } from "@/components/sites/shizhi/ThemeToggle";
+import { withBasePath } from "@/lib/base-path";
 
 interface RealShizhiPanelProps {
   compact?: boolean;
@@ -38,7 +39,7 @@ export function RealShizhiPanel({ compact = false, expanded = false }: RealShizh
       <iframe
         ref={frameRef}
         className="real-panel-frame"
-        src={`/sites/shizhi/panel-demo.html${query}`}
+        src={`${withBasePath("/sites/shizhi/panel-demo.html")}${query}`}
         title="拾知真实产品面板"
         loading={compact ? "eager" : "lazy"}
         onLoad={() => syncTheme()}
