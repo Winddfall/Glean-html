@@ -40,7 +40,7 @@ export function SiteHeader() {
           <ThemeToggle />
           <div className="header-socials">
             {socialLinks.map(({ name, Icon, href }) => (
-              <a key={name} href={href} aria-label={name} title={name} target={href !== "#" ? "_blank" : undefined} rel={href !== "#" ? "noopener noreferrer" : undefined} onClick={href === "#" ? (event) => event.preventDefault() : undefined}><Icon className="h-[18px] w-[18px]" /></a>
+              <a key={name} href={href} aria-label={name} title={name} target="_blank" rel="noopener noreferrer"><Icon className="h-[18px] w-[18px]" /></a>
             ))}
           </div>
         </div>
@@ -52,7 +52,7 @@ export function SiteHeader() {
       {open && (
         <div className="mobile-menu lg:hidden">
           {nav.map(([label, href]) => <Link key={label} href={href} onClick={() => setOpen(false)}>{label}</Link>)}
-          <div className="mt-3 flex gap-2 border-t border-[var(--line)] pt-4">{socialLinks.map(({ name, Icon, href }) => <a key={name} href={href} aria-label={name} target={href !== "#" ? "_blank" : undefined} rel={href !== "#" ? "noopener noreferrer" : undefined} onClick={href === "#" ? (event) => event.preventDefault() : undefined}><Icon className="h-5 w-5" /></a>)}</div>
+          <div className="mt-3 flex gap-2 border-t border-[var(--line)] pt-4">{socialLinks.map(({ name, Icon, href }) => <a key={name} href={href} aria-label={name} target="_blank" rel="noopener noreferrer"><Icon className="h-5 w-5" /></a>)}</div>
         </div>
       )}
     </header>

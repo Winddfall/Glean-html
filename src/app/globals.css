@@ -114,7 +114,8 @@ button { cursor: pointer; }
 .site-header-inner { position: relative; z-index: 2; }
 .site-header.is-scrolled { border-bottom: 1px solid var(--line); box-shadow: 0 8px 30px rgba(50, 64, 40, .08); }
 .brand-lockup { display: flex; align-items: center; gap: 10px; font-size: 22px; font-weight: 650; letter-spacing: .02em; font-family: Inter, "Plus Jakarta Sans", system-ui, sans-serif; }
-.brand-lockup img, .footer-brand img { border-radius: 11px; mix-blend-mode: multiply; }
+.brand-lockup img { border-radius: 11px; mix-blend-mode: multiply; }
+.footer-brand img { border-radius: 11px; mix-blend-mode: normal; }
 .site-header nav a { position: relative; color: #596253; font-size: 14px; font-weight: 600; transition: color .2s ease; }
 .site-header nav a::after { content: ""; position: absolute; left: 50%; bottom: -9px; width: 0; height: 2px; border-radius: 9px; background: var(--brand); transition: width .25s ease, left .25s ease; }
 .site-header nav a:hover { color: var(--brand-dark); }
@@ -385,8 +386,8 @@ html.dark .feature-card:hover { border-color: rgba(205, 212, 200, .35); }
 html.dark .feature-number { color: #5d6851; }
 
 html.dark .process-section { background: transparent; }
-html.dark .process-list article { background: #1b2314; box-shadow: 0 16px 48px rgba(0, 0, 0, .24); }
-html.dark .process-visual { background: var(--paper); }
+html.dark .process-list article { background: rgba(255, 255, 255, .045); box-shadow: 0 16px 48px rgba(0, 0, 0, .24); }
+html.dark .process-visual { background: rgba(255, 255, 255, .035); }
 html.dark .capture-chip, html.dark .search-result { background: #242c19; box-shadow: 0 8px 22px rgba(0, 0, 0, .35); }
 
 html.dark .scene-switcher { background: #1a2113; }
@@ -445,11 +446,18 @@ html.dark .tt-icon-moon { opacity: 1; transform: rotate(0deg) scale(1); }
 /* Keep the page-wide interactive canvas visible through every top-level section. */
 .site-shell > section { background-color: transparent; }
 
-/* Storage guide illustration: display at half of its natural content width. */
+/* Display guide PNGs at 65% of the content width. */
+.guide-png-image {
+  display: block;
+  width: 65%;
+  height: auto;
+  margin-inline: auto;
+}
+
 .storage-guide-image {
   display: block;
   width: 529px;
-  max-width: 50%;
+  max-width: 65%;
   height: auto;
   margin-inline: auto;
 }

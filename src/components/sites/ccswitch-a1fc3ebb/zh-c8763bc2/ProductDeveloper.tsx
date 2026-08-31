@@ -17,7 +17,7 @@ export function ProductDeveloper() {
           <Reveal variant="left" className="sticky-copy">
             <span className="eyebrow">A QUIET WORKFLOW</span>
             <h2>不打断思考，<br />恰到好处地<br />出现。</h2>
-            <p>拾知不是另一个需要维护的知识库。它嵌在浏览器里，在信息最鲜活的时候帮你完成最少但关键的整理。</p>
+            <p>Glean 不是另一个需要维护的知识库。它嵌在浏览器里，在信息最鲜活的时候帮你完成最少但关键的整理。</p>
           </Reveal>
           <div className="process-list">
             {steps.map(([number, title, description], index) => (

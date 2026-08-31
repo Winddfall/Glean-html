@@ -8,6 +8,7 @@ import { withBasePath } from "@/lib/base-path";
 const components: Components = {
   img: ({ src, alt, ...rest }) => {
     const isStorageIllustration = src === "/images/product/storage.png";
+    const isGuidePng = typeof src === "string" && /\.png(?:$|[?#])/i.test(src);
 
     const imageSrc = typeof src === "string" ? withBasePath(src) : src;
 
@@ -18,7 +19,9 @@ const components: Components = {
         {...rest}
         {...(isStorageIllustration
           ? { width: 529, height: 585, className: "storage-guide-image" }
-          : {})}
+          : isGuidePng
+            ? { className: "guide-png-image" }
+            : {})}
       />
     );
   },
