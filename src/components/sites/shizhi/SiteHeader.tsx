@@ -4,7 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { useEffect, useState } from "react";
 import { Menu, X } from "lucide-react";
-import { socialLinks } from "@/components/sites/shizhi/SocialIcons";
+import { HackathonIcon, socialLinks } from "@/components/sites/shizhi/SocialIcons";
 import { ThemeToggle } from "@/components/sites/shizhi/ThemeToggle";
 import { withBasePath } from "@/lib/base-path";
 
@@ -12,6 +12,11 @@ const partnerLinks = [
   { name: "Watcha 拾知产品页", href: "https://watcha.cn/products/shi-zhi", image: "/sites/shizhi/partners/watcha.svg", compact: true },
   { name: "AI工具集拾知介绍", href: "https://www.ai345.info/post/post-1788144318375", image: "/sites/shizhi/partners/ai345.png", compact: false },
 ] as const;
+
+const hackathonLink = {
+  name: "2026 黑客松作品展示",
+  href: "https://hackathon-2026.nocode.sankuai.com/#/showcase?team=108",
+} as const;
 
 const nav = [
   ["首页", "/#home"],
@@ -45,13 +50,16 @@ export function SiteHeader() {
           <ThemeToggle />
           <div className="header-socials">
             {socialLinks.map(({ name, Icon, href }) => (
-              <a key={name} href={href} aria-label={name} title={name} target="_blank" rel="noopener noreferrer"><Icon className="h-[18px] w-[18px]" /></a>
+              <a key={name} href={href} aria-label={name} title={name} target="_blank" rel="noopener noreferrer"><Icon className="h-[20px] w-[20px]" /></a>
             ))}
             {partnerLinks.map(({ name, href, image, compact }) => (
               <a key={name} href={href} aria-label={name} title={name} target="_blank" rel="noopener noreferrer">
                 <Image className={`partner-icon ${compact ? "is-compact" : ""}`} src={withBasePath(image)} alt="" width={30} height={30} unoptimized />
               </a>
             ))}
+            <a href={hackathonLink.href} aria-label={hackathonLink.name} title={hackathonLink.name} target="_blank" rel="noopener noreferrer">
+              <HackathonIcon className="h-[25px] w-[25px]" />
+            </a>
           </div>
         </div>
         <div className="mobile-actions lg:hidden">
@@ -69,6 +77,9 @@ export function SiteHeader() {
               </a>
             ))}
             {socialLinks.map(({ name, Icon, href }) => <a key={name} href={href} aria-label={name} title={name} target="_blank" rel="noopener noreferrer"><Icon className="h-5 w-5" /></a>)}
+            <a href={hackathonLink.href} aria-label={hackathonLink.name} title={hackathonLink.name} target="_blank" rel="noopener noreferrer">
+              <HackathonIcon className="h-[26px] w-[26px]" />
+            </a>
           </div>
         </div>
       )}
